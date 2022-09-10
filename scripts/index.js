@@ -8,7 +8,10 @@ for (const student of students) {
       <td>${student.name}</td>
       <td>
         <a
-          href="/web-systems-and-technologies/personal-websites/${section}/${student.links.website}"
+          href="/web-systems-and-technologies/personal-websites/${section}/${
+    student.links.website
+  }"
+          target="_blank"
           class="btn btn-sm btn-${student.links.website ? "success" : "danger"}"
         >
           ${student.links.website ? "Open" : "Not Available"}
