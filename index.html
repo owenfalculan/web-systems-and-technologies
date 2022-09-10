@@ -88,8 +88,8 @@
             <li><a href="#bootstrap">Bootstrap</a></li>
             <li><a href="#git">Git</a></li>
             <li><a href="#git-commands">Git commands</a></li>
-            <li><a href="">Deploying to GitHub Pages</a></li>
-            <li><a href="">Contributing to Repository</a></li>
+            <li><a href="#github-pages">Deploying to GitHub Pages</a></li>
+            <li><a href="#contributing">Contributing to Repository</a></li>
           </ul>
         </section>
       </section>
@@ -143,7 +143,7 @@
             </div>
             <img
               class="my-4 w-100"
-              src="./images/webdev-diagram.jpg"
+              src="./images/webdev-diagram.png"
               alt="webdev-diagram"
             />
           </li>
@@ -194,7 +194,7 @@
             </div>
             <img
               class="my-4 w-100"
-              src="/web-systems-and-technologies/images/basic-html.png"
+              src="./images/basic-html.png"
               alt="basic-html"
             />
           </li>
@@ -202,7 +202,7 @@
             <div>Facebook with just HTML looks like this.</div>
             <img
               class="my-4 w-100"
-              src="/web-systems-and-technologies/images/facebook-html.jpeg"
+              src="./images/facebook-html.jpeg"
               alt="facebook-html"
             />
           </li>
@@ -423,7 +423,6 @@ p {
           <li>Download Git <a href="https://git-scm.com/downloads" target="_blank">here</a>.</li>
           <li>Read Git <a href="https://www.w3schools.com/git/default.asp" target="_blank">here</a>.</li>
           <li>Watch Git tutorial <a href="https://www.youtube.com/watch?v=DVRQoVRzMIY" target="_blank">here</a>.</li>
-          <li>Access my git commands cheat sheet <a href="https://gist.github.com/markbirds/b155fce1a3b810488667e56d3331b134" target="_blank">here.</a></li>
         </ul>
       </section>
       <hr id="git-commands" />
@@ -444,7 +443,7 @@ p {
             <div>
               <strong>git config</strong>
             </div>
-            <div>Now let Git know who you are. This is important for version control systems, as each Git commit uses this information:</div>
+            <div>- Now let Git know who you are. This is important for version control systems, as each Git commit uses this information:</div>
             <section class="my-3">
               <div class="my-2">Example:</div>
               <code>
@@ -457,7 +456,7 @@ p {
             <div>
               <strong>git init</strong>
             </div>
-            <div class="mb-3">Makes the project folder a git repository. Changes inside this folder will be tracked by Git.</div>
+            <div class="mb-3">- Makes the project folder a git repository. Changes inside this folder will be tracked by Git.</div>
           </li>
           <li>
             <div>
@@ -508,7 +507,78 @@ p {
               </code>
             </section>
           </li>
+          <li>
+            <div>
+              <strong>git clone</strong>
+            </div>
+            <div>
+              - Clones the repository and saves it to your local machine.
+            </div>
+            <section class="my-3">
+              <div class="my-2">Example:</div>
+              <code>
+                <div>git clone git@github.com:owenfalculan/web-systems-and-technologies.git</div>
+              </code>
+            </section>
+          </li>
+          <li>
+            <div>
+              <strong>git branch</strong>
+            </div>
+            <div>
+              - Creates a branch or a new/separate version of the main repository.
+            </div>
+            <section class="my-3">
+              <div class="my-2">Example:</div>
+              <code>
+                <div>git branch "add-about-me-section"</div>
+                <div>git checkout "add-about-me-section"</div>
+              </code>
+            </section>
+            <section class="my-3">
+              <div class="my-2">- Shortcut (create branch then switch):</div>
+              <code>
+                <div>git checkout -b "add-about-me-section"</div>
+              </code>
+            </section>
+          </li>
+          <li>
+            <div>
+              <strong>git push</strong>
+            </div>
+            <div class="mb-3">
+              - Pushes or uploads your changes/branch/commit to remote repository <i>(eg. GitHub and Gitlab)</i>.
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>git pull</strong>
+            </div>
+            <div class="mb-3">
+              - Updates the local repository.
+            </div>
+          </li>
+          <li>Access my git commands cheat sheet <a href="https://gist.github.com/markbirds/b155fce1a3b810488667e56d3331b134" target="_blank">here.</a></li>
         </ul>
+      </section>
+      <hr id="github-pages" />
+      <section class="my-5">
+        <h5 class="my-3">Deploying to GitHub Pages</h5>
+        <ul>
+          <li>GitHub is a code hosting platform for version control and collaboration.</li>
+          <li>It lets you and others work together on projects from anywhere.</li>
+          <li>You can deploy any static website here using GitHub Pages. <i>(eg. personal websites)</i></li>
+          <li>Follow this <a href="https://www.w3schools.com/git/git_remote_pages.asp?remote=github" target="_blank">tutorial</a>.</li>
+        </ul>
+      </section>
+      <hr id="contributing" />
+      <section class="my-5">
+        <h5 class="my-3">Contributing to Repository</h5>
+        <li>Access our GitHub repository <a href="https://github.com/owenfalculan/web-systems-and-technologies" target="_blank">here</a>.</li>
+        <li>
+          <div>Adding your personal website the repository.</div>
+
+        </li>
       </section>
       <div class="fixed-bottom d-flex justify-content-center">
         <button type="button" class="btn btn-sm btn-secondary my-4" onclick="topFunction()" id="myBtn" title="Go to top">Back to top</button>
