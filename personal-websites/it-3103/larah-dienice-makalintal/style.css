@@ -1,0 +1,166 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.webs   
+{
+    height: 110%;
+	width: 100%;
+	background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(web.png);
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+}
+.front  
+{
+    height: 85%;
+	width: 90%;
+	background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(me.jpg);
+	background-position: center;
+	background-size: 600px;
+	position: absolute;
+}
+.navbar
+{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 50px;
+}
+nav
+{
+    flex: 1;
+    text-align: right;
+}
+nav ul 
+{
+    display: inline-block;
+    list-style: none;
+}
+nav ul li
+{
+    display: inline-block;
+    margin-right: 70px;
+}
+nav ul li a
+{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+nav ul li button
+{
+    font-size: 20px;
+    color: white;
+    outline: none;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+nav ul li button:hover
+{
+    color: blue;
+}
+nav ul li a:hover
+{
+    color: pink;
+}
+a
+{
+    text-decoration: none;
+    color: aquamarine;
+    font-size: 28px;
+}
+
+#about-me
+{
+
+	font-size: 100%;
+	font-style: oblique;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+}
+.div1
+{
+    margin-top:2%;
+    border: 7px solid black;
+    -webkit-border-radius:10%;
+            border-radius:10%;
+    height: 10%;
+    width: 15%;
+    background-image: linear-gradient(#556B2F, #E9967A);
+    float:top;
+    box-shadow:10px 10px red;
+    text-shadow:5px 5px 5px blue;
+}
+#fam-back
+{
+	font-size: 100%;
+	font-style: oblique;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+}
+.div2
+{
+    margin-top:2%;
+    border: 7px dashed olive;
+    -webkit-border-radius:10%;
+            border-radius:10%;
+    height: 10%;
+    width: 100%;
+    background-image: linear-gradient(#556B2F, #E9967A);
+    float:top;
+    box-shadow:10px 10px red;
+    text-shadow:5px 5px 5px pink;
+}
+#educ-att
+{
+	font-size: 100%;
+	font-style: oblique;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+}
+.div3
+{
+    margin-top:2%;
+    border: 7px ridge yellow;
+    -webkit-border-radius:10%;
+            border-radius:10%;
+    height: 10%;
+    width: 100%;
+    background-image: linear-gradient(#556B2F, #E9967A);
+    float:top;
+    box-shadow:10px 10px red;
+    text-shadow:5px 5px 5px red;
+}
+#cont-info
+{
+
+	font-size: 100%;
+	font-style: oblique;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+}
+.div4
+{
+    margin-top:2%;
+    border: 7px dotted brown;
+    -webkit-border-radius:10%;
+            border-radius:10%;
+    height: 10%;
+    width: 30%;
+    background-image: linear-gradient(#556B2F, #E9967A);
+    float:top;
+    box-shadow:10px 10px red;
+    text-shadow:5px 5px 5px yellowgreen;
+}
