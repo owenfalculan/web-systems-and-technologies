@@ -51,7 +51,7 @@ const IT_3103 = [
     code: "20-58092",
     name: "De Chavez, Janelle Nikki S.",
     links: {
-      website: "",
+      website: "de-chavez-janelle-nikki",
       calculator: "",
     },
   },

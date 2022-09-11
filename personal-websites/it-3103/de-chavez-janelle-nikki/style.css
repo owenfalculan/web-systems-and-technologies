@@ -1,0 +1,95 @@
+
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+
+.bgimage {
+    height:100vh;
+    background: url('images/bg.jpg');
+    opacity: 0.9;
+    background-size:cover;
+    position:relative;
+}
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+ #about, #hobbies, #portfolio, #contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+} 
+#contact {
+    padding-bottom: 4rem;
+}
+
+.imageAboutPage {
+    width: 100%;
+}
+
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #008000;
+}
+.servicesText:hover {
+    border: 1px solid #008000;
+}
+
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+    color: #008000;
+}
+.fab {
+    color: #ffffff;
+}
+
+#footer {
+    background-color: #000000;
+    text-align: center;
+}
+
+#slideshow {
+    height: 250px;
+    width: 700px;
+    margin: auto;
+    position: left;
+}
+
+#about{
+    font-size: 26px;
+}
+
+.aboutText:hover {
+    border: 1px solid #008000;
+    border-style:dotted;
+    border-width: 5px;
+}
+
+#aboutsec {
+    list-style-type: circle;
+    text-align:left;
+  }
