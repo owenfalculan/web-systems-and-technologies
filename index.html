@@ -31,34 +31,19 @@
             <tr>
               <td>IT-3103</td>
               <td>
-                <a
-                  href="/web-systems-and-technologies/personal-websites/it-3103"
-                  class="btn btn-sm btn-secondary"
-                >
-                  Click here
-                </a>
+                <button class="btn btn-sm btn-secondary" onclick="navigate('it-3103')">Click here</button>
               </td>
             </tr>
             <tr>
               <td>IT-3104</td>
               <td>
-                <a
-                  href="/web-systems-and-technologies/personal-websites/it-3104"
-                  class="btn btn-sm btn-secondary"
-                >
-                  Click here
-                </a>
+                <button class="btn btn-sm btn-secondary" onclick="navigate('it-3104')">Click here</button>
               </td>
             </tr>
             <tr>
               <td>IT-3105</td>
               <td>
-                <a
-                  href="/web-systems-and-technologies/personal-websites/it-3105"
-                  class="btn btn-sm btn-secondary"
-                >
-                  Click here
-                </a>
+                <button class="btn btn-sm btn-secondary" onclick="navigate('it-3105')">Click here</button>
               </td>
             </tr>
           </tbody>
@@ -574,11 +559,9 @@ p {
       <hr id="contributing" />
       <section class="my-5">
         <h5 class="my-3">Contributing to Repository</h5>
-        <li>Access our GitHub repository <a href="https://github.com/owenfalculan/web-systems-and-technologies" target="_blank">here</a>.</li>
-        <li>
-          <div>Adding your personal website the repository.</div>
-
-        </li>
+        <ul>
+          <li>Read <a href="https://github.com/owenfalculan/web-systems-and-technologies/blob/master/README.md" target="_blank">here.</a></li>
+        </ul>
       </section>
       <div class="fixed-bottom d-flex justify-content-center">
         <button type="button" class="btn btn-sm btn-secondary my-4" onclick="topFunction()" id="myBtn" title="Go to top">Back to top</button>
@@ -605,6 +588,11 @@ p {
       function topFunction() {
         document.body.scrollTop = 0; // For Safari
         document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      }
+
+      function navigate(section) {
+        sessionStorage.setItem("section", section);
+        window.location.href = `/web-systems-and-technologies/personal-websites/${section}`;
       }
     </script>
   </body>

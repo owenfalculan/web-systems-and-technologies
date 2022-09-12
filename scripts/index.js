@@ -1,4 +1,4 @@
-const section = window.location.pathname.split("/")[3];
+const section = sessionStorage.getItem("section");
 const students = SECTION_MAPPING[section];
 
 for (const student of students) {
