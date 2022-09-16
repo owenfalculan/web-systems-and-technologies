@@ -1,10 +1,24 @@
 ## Web Systems and Technologies Repository
 
-#### Contributing
+### Requirements
+1. Git - Make sure you have git installed. Download git [here](https://git-scm.com/downloads).
+2. Github - Create a GitHub Account and add your username [here](https://docs.google.com/spreadsheets/d/1dbLlteb_eT49D2mW4nqbA3amqZcflPaSZ64H18HGgK8/edit?usp=sharing). You will be invited as a collaborator in this repository.
 
-1. Make sure you have git installed. Download git [here](https://git-scm.com/downloads).
-2. Create GitHub Account and add your username [here](https://docs.google.com/spreadsheets/d/1dbLlteb_eT49D2mW4nqbA3amqZcflPaSZ64H18HGgK8/edit?usp=sharing). You will be invited as a collaborator in this repository.
-3. Open Git Bash (installed along with git) and clone the repository.
+### Contributing
+
+1. Create repository for your personal website and deploy it using GitHub Pages. Follow this [tutorial](https://www.w3schools.com/git/git_remote_pages.asp?remote=github).
+```
+Steps:
+1. Create new repository on GitHub.
+2. Initialize your project with git. Command: git init
+3. Add your files to staging area. Command: git add .
+4. Commit your changes. Command: git commit -m <commit-message>
+5. Add github repository remote URL. Command: git remote add origin <remote-url>
+6. Push main/master branch. Command: git push -u origin main
+7. Click settings > pages then deploy master branch.
+```
+
+2. Open Git Bash (installed along with git) and clone our course repository.
 ```
 Command:
 git clone https://github.com/owenfalculan/web-systems-and-technologies.git
@@ -19,14 +33,23 @@ git checkout -b "owen-patrick-falculan"
 Command:
 git branch
 ```
-6. Add your project in ``personal-websites/<your-section>``. The main html file inside your project should be named ``index.html``.
-7. Edit ``scripts/variables.js`` file. Look for your name and add the project folder name as the value for website property.
-8. Add your changes to staging area.
+6. Edit ``scripts/variables.js`` file. Look for your name and add the links of your personal website and github repository.
+```
+Sample:
+links: {
+  website: {
+    link: "https://owenfalculan.github.io/web-systems-and-technologies/",
+    code: "https://github.com/owenfalculan/web-systems-and-technologies",
+  },
+  calculator: "",
+},
+```
+7. Add your changes to staging area.
 ```
 Command:
 git add .
 ```
-9. Commit your changes.
+8. Commit your changes.
 ```
 Command:
 git commit -m <commit-message>
@@ -34,7 +57,7 @@ git commit -m <commit-message>
 Example:
 git commit -m 'develop owen falculan website'
 ```
-10. Push your branch.
+9. Push your branch.
 ```
 Command:
 git push
@@ -43,4 +66,4 @@ If prompted to set remote as upstream. Just enter the recommended command.
 Sample:
 git push --set-upstream origin <branch-name>
 ```
-11. Find your pushed branch in our GitHub repository then create and open pull request.
+110. Find your pushed branch in our GitHub repository then create and open pull request.
