@@ -579,8 +579,8 @@ const IT_3104 = [
     name: "Caraig, Randolf Andrew P.",
     links: {
       website: {
-        link: "",
-        code: "",
+        link: "https://owenfalculan.github.io/my-personal-website/",
+        code: "https://github.com/owenfalculan/my-personal-website",
       },
       calculator: "",
     },
