@@ -268,8 +268,8 @@ const IT_3103 = [
     name: "Manalo, Jemuel V.",
     links: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dmnjemuel.github.io/jemuel-manalo/",
+        code: "https://github.com/dmnjemuel/jemuel-manalo.git",
       },
       calculator: "",
     },
