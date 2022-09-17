@@ -389,8 +389,8 @@ const IT_3103 = [
     name: "Suzara, Pete Andrei A.",
     links: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dreyirvine.github.io/pete-suzara/",
+        code: "https://github.com/dreyirvine/pete-suzara",
       },
       calculator: "",
     },
