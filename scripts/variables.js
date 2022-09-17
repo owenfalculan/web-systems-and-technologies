@@ -180,8 +180,8 @@ const IT_3103 = [
     name: "Garcia, Catherine Mae P.",
     links: {
       website: {
-        link: "",
-        code: "",
+        link: "https://catherinegrc.github.io/catherine-garcia/",
+        code: "https://github.com/catherinegrc/catherine-garcia",
       },
       calculator: "",
     },
