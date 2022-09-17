@@ -224,8 +224,8 @@ const IT_3103 = [
     name: "Maderazo, Gabriel Don D.",
     links: {
       website: {
-        link: "",
-        code: "",
+        link: "https://gabrielmdrz.github.io/Gabriel-Don-Maderazo/",
+        code: "https://github.com/GabrielMdrz/Gabriel-Don-Maderazo",
       },
       calculator: "",
     },
