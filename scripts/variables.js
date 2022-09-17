@@ -147,8 +147,8 @@ const IT_3103 = [
     name: "Estole, James Andreison A.",
     links: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dreibit.github.io/james-andreison-estole/",
+        code: "https://github.com/dreibit/james-andreison-estole",
       },
       calculator: "",
     },
