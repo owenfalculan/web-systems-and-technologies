@@ -290,8 +290,8 @@ const IT_3103 = [
     name: "Medrano, Ma. Lea Jane D.",
     links: {
       website: {
-        link: "",
-        code: "",
+        link: "https://maleajane.github.io/lea-jane-medrano/",
+        code: "https://github.com/Maleajane/lea-jane-medrano",
       },
       calculator: "",
     },
