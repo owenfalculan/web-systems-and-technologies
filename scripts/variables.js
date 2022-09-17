@@ -81,8 +81,8 @@ const IT_3103 = [
     name: "De Las Alas, Ysrael P.",
     links: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ysraeldelasalas.github.io/ysrael-delas-alas/",
+        code: "https://github.com/YsraelDelasAlas/ysrael-delas-alas",
       },
       calculator: "",
     },
