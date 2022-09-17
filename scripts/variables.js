@@ -70,7 +70,7 @@ const IT_3103 = [
     name: "De Chavez, Janelle Nikki S.",
     links: {
       website: {
-        link: "https://jndechavez.github.io/de-chavez-janelle-nikki/#home",
+        link: "https://jndechavez.github.io/de-chavez-janelle-nikki/",
         code: "https://github.com/jndechavez/de-chavez-janelle-nikki",
       },
       calculator: "",
