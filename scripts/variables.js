@@ -4,8 +4,8 @@ const IT_3103 = [
     name: "Almenanza, Dianne D.",
     links: {
       website: {
-        link: "",
-        code: "",
+        link: "https://yanishiii.github.io/Dianne-Almenanza/",
+        code: "https://github.com/yanishiii/Dianne-Almenanza.git",
       },
       calculator: "",
     },
