@@ -1480,8 +1480,8 @@ const IT_3105 = [
     name: "Marasigan, Erika E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://erikamrsgn.github.io/erika-marasigan/index.html",
+        code: "https://github.com/erikamrsgn/erika-marasigan",
       },
       calculator: {
         link: "",
