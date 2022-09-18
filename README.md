@@ -37,7 +37,8 @@ git config --global user.name "Owen Patrick Falculan"
 ```
 Steps:
 1. Create new repository on GitHub.
-2. Initialize your project with git. (Go to your project folder > right click > Open Git Bash) Command: git init
+2. Initialize your project with git. 
+(Go to your project folder > right click > Open Git Bash) Command: git init
 3. Add your files to staging area. Command: git add .
 4. Commit your changes. Command: git commit -m <commit-message>
 5. Add github repository remote URL. Command: git remote add origin <remote-url>
