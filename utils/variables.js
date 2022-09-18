@@ -480,8 +480,8 @@ const IT_3103 = [
     name: "Sumague, Erick Reu C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://erickryoo.github.io/myportfolio/",
+        code: "https://github.com/ErickRyoo/myportfolio.git",
       },
       calculator: {
         link: "",
