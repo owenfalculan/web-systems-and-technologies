@@ -6,7 +6,7 @@
         <NuxtLink
           :to="`/personal-websites/${data.item.section.toLowerCase()}`"
           class="btn btn-sm btn-secondary"
-          >Click here</NuxtLink
+          >Open</NuxtLink
         >
       </template>
     </b-table>
