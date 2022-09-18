@@ -42,7 +42,7 @@ export default {
       fields: [
         { key: "code", label: "SRCODE" },
         { key: "name", label: "Name" },
-        { key: "activities", label: "Links" },
+        { key: "activities", label: "Link" },
       ],
       items: SECTION_MAPPING[this.$route.params.section],
     }
