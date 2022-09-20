@@ -539,8 +539,8 @@ const IT_3104 = [
     name: "Aclan, Jod Matthew P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://yaboijomskii.github.io/yaboiJomskii/",
+        code: "https://github.com/yaboiJomskii/yaboiJomskii",
       },
       calculator: {
         link: "",
