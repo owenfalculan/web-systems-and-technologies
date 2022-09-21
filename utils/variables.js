@@ -609,8 +609,8 @@ const IT_3104 = [
     name: "Asi, John Denver R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dambear.github.io/asi_personal_web_repo/",
+        code: "https://github.com/dambear/asi_personal_web_repo",
       },
       calculator: {
         link: "",
