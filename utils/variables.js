@@ -805,8 +805,8 @@ const IT_3104 = [
     name: "Fabonan, Kirt Sywin P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kirtsywin.github.io/kirtsywin_personal_web/",
+        code: "https://github.com/KirtSywin/kirtsywin_personal_web",
       },
       calculator: {
         link: "",
