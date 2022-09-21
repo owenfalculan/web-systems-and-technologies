@@ -1015,8 +1015,8 @@ const IT_3104 = [
     name: "Villanueva, Hanz Aldhen M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://hnzaldhn.github.io/hanzaldhen/",
+        code: "https://github.com/hnzaldhn/hanzaldhen",
       },
       calculator: {
         link: "",
