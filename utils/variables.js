@@ -973,8 +973,8 @@ const IT_3104 = [
     name: "Salazar, Jasper D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jaspersalazar.github.io/jaspersalazar/index.html",
+        code: "https://github.com/JasperSalazar/jaspersalazar",
       },
       calculator: {
         link: "",
