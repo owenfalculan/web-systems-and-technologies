@@ -47,7 +47,7 @@ Steps:
 8. Your website link will be available after 30 seconds.
 ```
 
-2. Open Git Bash (installed along with git) and clone our course repository.
+2. Open Git Bash (installed along with git) and clone our course repository. Do not clone inside your personal website project!
 
 ```
 Commands:
