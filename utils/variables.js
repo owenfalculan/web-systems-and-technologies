@@ -889,8 +889,8 @@ const IT_3104 = [
     name: "Mendoza, Joshua M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://owaaaaaaaa.github.io/Personal-Website/",
+        code: "https://github.com/OWAAAAAAAA/Personal-Website.git",
       },
       calculator: {
         link: "",
