@@ -679,8 +679,8 @@ const IT_3104 = [
     name: "Blanco, Axle Dan B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://axleblanco.github.io/Personal-Website/",
+        code: "https://github.com/Axleblanco/Personal-Website.git",
       },
       calculator: {
         link: "",
