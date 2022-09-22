@@ -595,8 +595,8 @@ const IT_3104 = [
     name: "Arellano, Jayven C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jayvenarellano.github.io/Website/",
+        code: "https://github.com/Jayvenarellano/Website",
       },
       calculator: {
         link: "",
