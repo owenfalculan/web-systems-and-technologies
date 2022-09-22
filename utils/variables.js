@@ -777,8 +777,8 @@ const IT_3104 = [
     name: "Delgado, Mark Meriel L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://markmeriel.github.io/Personal-Website/",
+        code: "https://github.com/MarkMeriel/Personal-Website.git",
       },
       calculator: {
         link: "",
