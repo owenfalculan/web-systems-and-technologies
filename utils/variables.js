@@ -438,8 +438,8 @@ const IT_3103 = [
     name: "Pugoy, Ivy D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://xxavieexx.github.io/ivy/",
+        code: "https://github.com/xxavieexx/ivy.git",
       },
       calculator: {
         link: "",
