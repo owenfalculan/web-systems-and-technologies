@@ -172,8 +172,8 @@ const IT_3103 = [
     name: "Esguerra, Jenina G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://deoxyribo7.github.io/jenina-esguerra/",
+        code: "https://github.com/deoxyribo7/jenina-esguerra",
       },
       calculator: {
         link: "",
