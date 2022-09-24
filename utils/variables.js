@@ -1200,8 +1200,8 @@ const IT_3105 = [
     name: "Cometa, Jeny Angela A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jenydotcom.github.io/Jeny-Cometa/",
+        code: "https://github.com/JenydotCom/Jeny-Cometa",
       },
       calculator: {
         link: "",
