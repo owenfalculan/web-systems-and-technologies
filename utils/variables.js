@@ -456,8 +456,8 @@ const IT_3103 = [
         code: "https://github.com/piolorvr/sito-web-personale.git",
       },
       calculator: {
-        link: "",
-        code: "",
+        link: "https://ezaira.github.io/ezaira-sandoval/",
+        code: "https://github.com/Ezaira/ezaira-sandoval.git",
       },
     },
   },
