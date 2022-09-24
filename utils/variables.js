@@ -2032,8 +2032,8 @@ const IT_3103 = [
     name: "Caguiat, Mecka Danes L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://meckadanes.github.io/mecka-danes/",
+        code: "https://github.com/meckadanes/mecka-danes",
       },
       calculator: {
         link: "",
