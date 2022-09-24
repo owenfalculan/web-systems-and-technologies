@@ -298,8 +298,8 @@ const IT_3103 = [
     name: "Makalintal, Larah Dienice D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://larahdienice.github.io/larah-dienice/",
+        code: "https://github.com/LarahDienice/larah-dienice",
       },
       calculator: {
         link: "",
