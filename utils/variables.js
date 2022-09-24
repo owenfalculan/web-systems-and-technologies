@@ -2396,8 +2396,8 @@ const IT_3103 = [
     name: "Panganiban, Glenn P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://glennpanganiban.github.io/glenn-panganiban/",
+        code: "https://github.com/glennpanganiban/glenn-panganiban",
       },
       calculator: {
         link: "",
