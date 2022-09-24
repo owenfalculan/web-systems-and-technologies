@@ -7,10 +7,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -18,10 +14,6 @@ const CS_3101 = [
     name: "Agulo, Arnel D.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -35,10 +27,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -46,10 +34,6 @@ const CS_3101 = [
     name: "Amboy, Niño Andrey H.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -63,10 +47,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -74,10 +54,6 @@ const CS_3101 = [
     name: "Cantos, Len Aubrey Z.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -91,10 +67,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -102,10 +74,6 @@ const CS_3101 = [
     name: "Clemente, Joshua F.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -119,10 +87,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -130,10 +94,6 @@ const CS_3101 = [
     name: "Endaya, John Carlo S.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -147,10 +107,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -158,10 +114,6 @@ const CS_3101 = [
     name: "Glorioso, Ronald Rey C.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -175,10 +127,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -186,10 +134,6 @@ const CS_3101 = [
     name: "Lagamon, Miguel Enrico B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -203,10 +147,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -214,10 +154,6 @@ const CS_3101 = [
     name: "Magadia, Alliyah Aina C.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -231,10 +167,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -242,10 +174,6 @@ const CS_3101 = [
     name: "Maligalig, Mark Angelo A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -259,10 +187,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -270,10 +194,6 @@ const CS_3101 = [
     name: "Marundan, Marc Francis D.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -287,10 +207,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -298,10 +214,6 @@ const CS_3101 = [
     name: "Reaño, Kenneth Joshua O.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -315,10 +227,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -326,10 +234,6 @@ const CS_3101 = [
     name: "Santos, Adrian Dwyne A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -343,10 +247,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -354,10 +254,6 @@ const CS_3101 = [
     name: "Sealquil, Niño A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -371,10 +267,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -382,10 +274,6 @@ const CS_3101 = [
     name: "Tecson, Kairus Noah E.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -399,10 +287,6 @@ const CS_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -410,10 +294,6 @@ const CS_3101 = [
     name: "Villena, Lj Britney R.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -430,10 +310,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -441,10 +317,6 @@ const CS_3102 = [
     name: "Cabatic, Bryan Andrei L.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -458,10 +330,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -469,10 +337,6 @@ const CS_3102 = [
     name: "Crisang, Lance Daniel M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -486,10 +350,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -497,10 +357,6 @@ const CS_3102 = [
     name: "Dela Cruz, Christine Valerie M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -514,10 +370,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -525,10 +377,6 @@ const CS_3102 = [
     name: "Ebora, Dianne H.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -542,10 +390,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -553,10 +397,6 @@ const CS_3102 = [
     name: "Espiritu, Joshua Del P.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -570,10 +410,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -581,10 +417,6 @@ const CS_3102 = [
     name: "Gutierrez, Rommel C.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -598,10 +430,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -609,10 +437,6 @@ const CS_3102 = [
     name: "Hernandez, Ivan John E.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -626,10 +450,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -637,10 +457,6 @@ const CS_3102 = [
     name: "Ilagan, Ulysis N.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -654,10 +470,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -665,10 +477,6 @@ const CS_3102 = [
     name: "Lugatic, Marienne Isabelle D.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -682,10 +490,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -693,10 +497,6 @@ const CS_3102 = [
     name: "Madrigalejos, Abie S.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -710,10 +510,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -721,10 +517,6 @@ const CS_3102 = [
     name: "Mendoza, Patrick James C.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -738,10 +530,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -749,10 +537,6 @@ const CS_3102 = [
     name: "Santiago, Angelo Gener V.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -766,10 +550,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -777,10 +557,6 @@ const CS_3102 = [
     name: "Vale, Adriel Joshua M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -794,10 +570,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -805,10 +577,6 @@ const CS_3102 = [
     name: "Vergara, Joseph Emmanuel R.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -822,10 +590,6 @@ const CS_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -833,10 +597,6 @@ const CS_3102 = [
     name: "Tripulca, Kimberly A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -853,10 +613,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -864,10 +620,6 @@ const IT_3101 = [
     name: "Alea, Allen Joshua B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -881,10 +633,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -892,10 +640,6 @@ const IT_3101 = [
     name: "Atienza, Julius W.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -909,10 +653,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -920,10 +660,6 @@ const IT_3101 = [
     name: "Baluyot, Elvin Marco Clyde P.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -937,10 +673,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -948,10 +680,6 @@ const IT_3101 = [
     name: "Cabral, Reyven B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -965,10 +693,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -976,10 +700,6 @@ const IT_3101 = [
     name: "Camasis, Jane B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -993,10 +713,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1004,10 +720,6 @@ const IT_3101 = [
     name: "Castillo, Ejhay L.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1021,10 +733,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1032,10 +740,6 @@ const IT_3101 = [
     name: "Clanor, John Rys M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1049,10 +753,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1060,10 +760,6 @@ const IT_3101 = [
     name: "Cueto, Mark Andrei E.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1077,10 +773,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1088,10 +780,6 @@ const IT_3101 = [
     name: "De Villa, Rudolph Angelo C.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1105,10 +793,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1116,10 +800,6 @@ const IT_3101 = [
     name: "Dionisio, Angelo B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1133,10 +813,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1144,10 +820,6 @@ const IT_3101 = [
     name: "Esmail, Mohammad Ryan D.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1161,10 +833,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1172,10 +840,6 @@ const IT_3101 = [
     name: "Estrada, Adriane M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1189,10 +853,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1200,10 +860,6 @@ const IT_3101 = [
     name: "Guban, Jasmil Rose L.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1217,10 +873,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1228,10 +880,6 @@ const IT_3101 = [
     name: "Hongoy, Mark Jimwell V.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1245,10 +893,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1256,10 +900,6 @@ const IT_3101 = [
     name: "Maldia, Jon Paolo G.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1273,10 +913,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1284,10 +920,6 @@ const IT_3101 = [
     name: "Martinez, Ken T.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1301,10 +933,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1312,10 +940,6 @@ const IT_3101 = [
     name: "Miranda, Dennice Gabrielle A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1329,10 +953,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1340,10 +960,6 @@ const IT_3101 = [
     name: "Panganiban, Kim Zedrick B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1357,10 +973,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1368,10 +980,6 @@ const IT_3101 = [
     name: "Pasahol, James Royette V.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1385,10 +993,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1396,10 +1000,6 @@ const IT_3101 = [
     name: "Quinto, Mark Gabriel M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1413,10 +1013,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1427,10 +1023,6 @@ const IT_3101 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1438,10 +1030,6 @@ const IT_3101 = [
     name: "Rolloque, Ken Mark L.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1458,10 +1046,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1469,10 +1053,6 @@ const IT_3102 = [
     name: "Agcaoili, Russell D.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1486,10 +1066,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1497,10 +1073,6 @@ const IT_3102 = [
     name: "Alegre, Kristyl Axlee A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1514,10 +1086,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1525,10 +1093,6 @@ const IT_3102 = [
     name: "Bruce, Gabrielle Antoinette E.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1542,10 +1106,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1553,10 +1113,6 @@ const IT_3102 = [
     name: "Cansanay, Charles A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1570,10 +1126,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1581,10 +1133,6 @@ const IT_3102 = [
     name: "Catilo, Warren M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1598,10 +1146,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1609,10 +1153,6 @@ const IT_3102 = [
     name: "Dantes, Earvin James M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1626,10 +1166,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1637,10 +1173,6 @@ const IT_3102 = [
     name: "Dionisio, John Aivan B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1654,10 +1186,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1665,10 +1193,6 @@ const IT_3102 = [
     name: "Frogosa, Andrea Kate F.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1682,10 +1206,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1693,10 +1213,6 @@ const IT_3102 = [
     name: "Lopez, Jannele S.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1710,10 +1226,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1721,10 +1233,6 @@ const IT_3102 = [
     name: "Macatangay, Steve M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1738,10 +1246,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1749,10 +1253,6 @@ const IT_3102 = [
     name: "Maldonado, Bianca Keisha D.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1766,10 +1266,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1777,10 +1273,6 @@ const IT_3102 = [
     name: "Manalo, Kate G.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1794,10 +1286,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1805,10 +1293,6 @@ const IT_3102 = [
     name: "Orense, Johndrey Jester B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1822,10 +1306,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1833,10 +1313,6 @@ const IT_3102 = [
     name: "Pamplona, Melvin A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1850,10 +1326,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1861,10 +1333,6 @@ const IT_3102 = [
     name: "Pira, Jerico Niño R.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1878,10 +1346,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1889,10 +1353,6 @@ const IT_3102 = [
     name: "Ramal, Kim Yzabelle A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1906,10 +1366,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1917,10 +1373,6 @@ const IT_3102 = [
     name: "Saez, Charlene B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1934,10 +1386,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1945,10 +1393,6 @@ const IT_3102 = [
     name: "Sapitula, Johann Gabriel A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1962,10 +1406,6 @@ const IT_3102 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -1973,10 +1413,6 @@ const IT_3102 = [
     name: "Ylagan, Kristine Joy A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -1993,10 +1429,6 @@ const IT_3103 = [
         link: "https://yanishiii.github.io/Dianne-Almenanza/",
         code: "https://github.com/yanishiii/Dianne-Almenanza.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2004,10 +1436,6 @@ const IT_3103 = [
     name: "Aniag, Angeline S.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2021,10 +1449,6 @@ const IT_3103 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2034,10 +1458,6 @@ const IT_3103 = [
       website: {
         link: "https://meckadanes.github.io/mecka-danes/",
         code: "https://github.com/meckadanes/mecka-danes",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -2049,10 +1469,6 @@ const IT_3103 = [
         link: "https://plnglo04.github.io/paul-comia/",
         code: "https://github.com/Plnglo04/paul-comia.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2060,10 +1476,6 @@ const IT_3103 = [
     name: "Cortez, Joseph S.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2077,10 +1489,6 @@ const IT_3103 = [
         link: "https://jndechavez.github.io/de-chavez-janelle-nikki/",
         code: "https://github.com/jndechavez/de-chavez-janelle-nikki",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2090,10 +1498,6 @@ const IT_3103 = [
       website: {
         link: "https://ysraeldelasalas.github.io/ysrael-delas-alas/",
         code: "https://github.com/YsraelDelasAlas/ysrael-delas-alas",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -2105,10 +1509,6 @@ const IT_3103 = [
         link: "https://xthclrs.github.io/delos-santos-thea/",
         code: "https://github.com/xthclrs/delos-santos-thea",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2116,10 +1516,6 @@ const IT_3103 = [
     name: "Duño, Razell A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2133,10 +1529,6 @@ const IT_3103 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2144,10 +1536,6 @@ const IT_3103 = [
     name: "Engay, Krystel Sofia G.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2161,10 +1549,6 @@ const IT_3103 = [
         link: "https://deoxyribo7.github.io/jenina-esguerra/",
         code: "https://github.com/deoxyribo7/jenina-esguerra",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2175,10 +1559,6 @@ const IT_3103 = [
         link: "https://dreibit.github.io/james-andreison-estole/",
         code: "https://github.com/dreibit/james-andreison-estole",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2186,10 +1566,6 @@ const IT_3103 = [
     name: "Falculan, Kristel Jane I.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2203,10 +1579,6 @@ const IT_3103 = [
         link: "https://eynjiljoy.github.io/Angel-Joy-Fancubit/",
         code: "https://github.com/eynjiljoy/Angel-Joy-Fancubit.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2217,10 +1589,6 @@ const IT_3103 = [
         link: "https://catherinegrc.github.io/catherine-garcia/",
         code: "https://github.com/catherinegrc/catherine-garcia",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2228,10 +1596,6 @@ const IT_3103 = [
     name: "Lopez, Keanne E.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2245,10 +1609,6 @@ const IT_3103 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2258,10 +1618,6 @@ const IT_3103 = [
       website: {
         link: "https://darell207.github.io/darell-personal/",
         code: "https://github.com/Darell207/darell-personal.git",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -2273,10 +1629,6 @@ const IT_3103 = [
         link: "https://gabrielmdrz.github.io/Gabriel-Don-Maderazo/",
         code: "https://github.com/GabrielMdrz/Gabriel-Don-Maderazo",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2286,10 +1638,6 @@ const IT_3103 = [
       website: {
         link: "https://larahdienice.github.io/larah-dienice/",
         code: "https://github.com/LarahDienice/larah-dienice",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -2301,10 +1649,6 @@ const IT_3103 = [
         link: "https://arvinmalaluan.github.io/arvin.malaluan-websiteproto/",
         code: "https://github.com/arvinmalaluan/arvin.malaluan-websiteproto.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2312,10 +1656,6 @@ const IT_3103 = [
     name: "Manalo, Deneil O.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2329,10 +1669,6 @@ const IT_3103 = [
         link: "https://dmnjemuel.github.io/jemuel-manalo/",
         code: "https://github.com/dmnjemuel/jemuel-manalo.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2340,10 +1676,6 @@ const IT_3103 = [
     name: "Mandigma, Grace M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2357,10 +1689,6 @@ const IT_3103 = [
         link: "https://maleajane.github.io/lea-jane-medrano/",
         code: "https://github.com/Maleajane/lea-jane-medrano",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2371,10 +1699,6 @@ const IT_3103 = [
         link: "https://patmelo.github.io/patricia-melo/",
         code: "https://github.com/patmelo/patricia-melo",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2382,10 +1706,6 @@ const IT_3103 = [
     name: "Panaligan, Kaycee A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2399,10 +1719,6 @@ const IT_3103 = [
         link: "https://glennpanganiban.github.io/glenn-panganiban/",
         code: "https://github.com/glennpanganiban/glenn-panganiban",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2410,10 +1726,6 @@ const IT_3103 = [
     name: "Pentinio, Keano C.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2427,10 +1739,6 @@ const IT_3103 = [
         link: "https://xxavieexx.github.io/ivy/",
         code: "https://github.com/xxavieexx/ivy.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2440,10 +1748,6 @@ const IT_3103 = [
       website: {
         link: "https://piolorvr.github.io/sito-web-personale/",
         code: "https://github.com/piolorvr/sito-web-personale.git",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -2455,10 +1759,6 @@ const IT_3103 = [
         link: "https://ezaira.github.io/ezaira-sandoval/",
         code: "https://github.com/Ezaira/ezaira-sandoval.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2468,10 +1768,6 @@ const IT_3103 = [
       website: {
         link: "https://erickryoo.github.io/myportfolio/",
         code: "https://github.com/ErickRyoo/myportfolio.git",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -2483,10 +1779,6 @@ const IT_3103 = [
         link: "https://dreyirvine.github.io/pete-suzara/",
         code: "https://github.com/dreyirvine/pete-suzara",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2497,10 +1789,6 @@ const IT_3103 = [
         link: "https://cedmrk.github.io/cedmark-termulo/",
         code: "https://github.com/cedMRK/cedmark-termulo",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2508,10 +1796,6 @@ const IT_3103 = [
     name: "Uy, Princess Ann Margaret E.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2528,10 +1812,6 @@ const IT_3104 = [
         link: "https://yaboijomskii.github.io/yaboiJomskii/",
         code: "https://github.com/yaboiJomskii/yaboiJomskii",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2539,10 +1819,6 @@ const IT_3104 = [
     name: "Alday, Ryan Joseph R.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2556,10 +1832,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2569,10 +1841,6 @@ const IT_3104 = [
       website: {
         link: "https://glennarcega.github.io/Glennarcega17/",
         code: "https://github.com/Glennarcega/Glennarcega17.git",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -2584,10 +1852,6 @@ const IT_3104 = [
         link: "https://jayvenarellano.github.io/Website/",
         code: "https://github.com/Jayvenarellano/Website",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2597,10 +1861,6 @@ const IT_3104 = [
       website: {
         link: "https://dambear.github.io/asi_personal_web_repo/",
         code: "https://github.com/dambear/asi_personal_web_repo",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -2612,10 +1872,6 @@ const IT_3104 = [
         link: "https://asiloprince.github.io/Personal-Website/",
         code: "https://github.com/asiloprince/Personal-Website.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2623,10 +1879,6 @@ const IT_3104 = [
     name: "Atienza, Jansen Karl H.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2640,10 +1892,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2651,10 +1899,6 @@ const IT_3104 = [
     name: "Banalan, Jerald D.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2668,10 +1912,6 @@ const IT_3104 = [
         link: "https://axleblanco.github.io/Personal-Website/",
         code: "https://github.com/Axleblanco/Personal-Website.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2679,10 +1919,6 @@ const IT_3104 = [
     name: "Brazil, Anna Marie B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2696,10 +1932,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2707,10 +1939,6 @@ const IT_3104 = [
     name: "Calingasan, Maher H.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2724,10 +1952,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2735,10 +1959,6 @@ const IT_3104 = [
     name: "Celis, Monalenne Joy M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2752,10 +1972,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2766,10 +1982,6 @@ const IT_3104 = [
         link: "https://markmeriel.github.io/Personal-Website/",
         code: "https://github.com/MarkMeriel/Personal-Website.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2777,10 +1989,6 @@ const IT_3104 = [
     name: "Erasmo, John Carlo A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2794,10 +2002,6 @@ const IT_3104 = [
         link: "https://kirtsywin.github.io/kirtsywin_personal_web/",
         code: "https://github.com/KirtSywin/kirtsywin_personal_web",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2805,10 +2009,6 @@ const IT_3104 = [
     name: "Godoy, Geofrey Miguel M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2822,10 +2022,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2833,10 +2029,6 @@ const IT_3104 = [
     name: "Magnaye, John Vincent L.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2850,10 +2042,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2861,10 +2049,6 @@ const IT_3104 = [
     name: "Manimtim, Justin H.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2878,10 +2062,6 @@ const IT_3104 = [
         link: "https://owaaaaaaaa.github.io/Personal-Website/",
         code: "https://github.com/OWAAAAAAAA/Personal-Website.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2889,10 +2069,6 @@ const IT_3104 = [
     name: "Montealto, Mark Lowel R.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2906,10 +2082,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2917,10 +2089,6 @@ const IT_3104 = [
     name: "Perez, Mark Raniel E.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2934,10 +2102,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2945,10 +2109,6 @@ const IT_3104 = [
     name: "Rondero, Vincent Patrick S.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2962,10 +2122,6 @@ const IT_3104 = [
         link: "https://jaspersalazar.github.io/jaspersalazar/index.html",
         code: "https://github.com/JasperSalazar/jaspersalazar",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -2973,10 +2129,6 @@ const IT_3104 = [
     name: "Sangalang, Ralph Matthew M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -2990,10 +2142,6 @@ const IT_3104 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3004,10 +2152,6 @@ const IT_3104 = [
         link: "https://hnzaldhn.github.io/hanzaldhen/",
         code: "https://github.com/hnzaldhn/hanzaldhen",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3015,10 +2159,6 @@ const IT_3104 = [
     name: "Villoria, Queen Dianne F.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3035,10 +2175,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3046,10 +2182,6 @@ const IT_3105 = [
     name: "Altares, Franklin L.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3063,10 +2195,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3074,10 +2202,6 @@ const IT_3105 = [
     name: "Arguelles, Alma Mae L.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3091,10 +2215,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3102,10 +2222,6 @@ const IT_3105 = [
     name: "Bendaña, Maria Nimuel L.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3119,10 +2235,6 @@ const IT_3105 = [
         link: "https://johnpaulbon.github.io/john-paul/",
         code: "https://github.com/Johnpaulbon/john-paul.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3133,10 +2245,6 @@ const IT_3105 = [
         link: "https://dhainebr.github.io/dhaine-bracamonte/",
         code: "https://github.com/DhaineBr/dhaine-bracamonte",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3144,10 +2252,6 @@ const IT_3105 = [
     name: "Calingasan, Alessandra P.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3161,10 +2265,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3172,10 +2272,6 @@ const IT_3105 = [
     name: "Catibog, Jomhar Kelly A.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3189,10 +2285,6 @@ const IT_3105 = [
         link: "https://jenydotcom.github.io/Jeny-Cometa/",
         code: "https://github.com/JenydotCom/Jeny-Cometa",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3203,10 +2295,6 @@ const IT_3105 = [
         link: "https://floriemaecordero.github.io/florie/",
         code: "https://github.com/FlorieMaeCordero/florie",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3214,12 +2302,8 @@ const IT_3105 = [
     name: "Cueto, Rica Mae P.",
     activities: {
       website: {
-        link: " https://cuetorica.github.io/rica.cueto/",
+        link: "https://cuetorica.github.io/rica.cueto/",
         code: "https://github.com/cuetorica/rica.cueto",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -3228,10 +2312,6 @@ const IT_3105 = [
     name: "De Chavez, Kier Aljon M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3245,10 +2325,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3256,10 +2332,6 @@ const IT_3105 = [
     name: "Dotollo, Jhingchael C.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3273,10 +2345,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3284,10 +2352,6 @@ const IT_3105 = [
     name: "Faner , Roberto Jr. F.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3301,10 +2365,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3312,10 +2372,6 @@ const IT_3105 = [
     name: "Hernandez, Carlo O.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3329,10 +2385,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3343,10 +2395,6 @@ const IT_3105 = [
         link: "https://kevinjumarang.github.io/Kevin-Ilagan/",
         code: "https://github.com/KevinJumarang/Kevin-Ilagan",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3354,10 +2402,6 @@ const IT_3105 = [
     name: "Lardizabal, April Rose B.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3371,10 +2415,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3382,10 +2422,6 @@ const IT_3105 = [
     name: "Lorin, Kyla R.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3399,10 +2435,6 @@ const IT_3105 = [
         link: "https://macuhakeith.github.io/keith.macuha/",
         code: "https://github.com/macuhakeith/keith.macuha",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3413,10 +2445,6 @@ const IT_3105 = [
         link: "https://lncemnlo.github.io/Personal-Website/",
         code: "https://github.com/lncemnlo/Personal-Website",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3424,10 +2452,6 @@ const IT_3105 = [
     name: "Manalo, Mark Angelo U.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3441,10 +2465,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3454,10 +2474,6 @@ const IT_3105 = [
       website: {
         link: "https://marananshelley.github.io/shelley-maranan/",
         code: "https://github.com/marananshelley/shelley-maranan",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -3469,10 +2485,6 @@ const IT_3105 = [
         link: "https://erikamrsgn.github.io/erika-marasigan/index.html",
         code: "https://github.com/erikamrsgn/erika-marasigan",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3483,10 +2495,6 @@ const IT_3105 = [
         link: "https://mitchmarasigan.github.io/mitch-marasigan/",
         code: "https://github.com/MITCHMARASIGAN/mitch-marasigan.git",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3494,10 +2502,6 @@ const IT_3105 = [
     name: "Marquez, Darlin Christine Jane M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3511,10 +2515,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3525,10 +2525,6 @@ const IT_3105 = [
         link: "https://cendric032.github.io/personal-website/",
         code: "https://github.com/Cendric032/personal-website",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3536,10 +2532,6 @@ const IT_3105 = [
     name: "Omampo, Marjorie C.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3553,10 +2545,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3564,10 +2552,6 @@ const IT_3105 = [
     name: "Sarmiento, Leomel D.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3581,10 +2565,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3592,10 +2572,6 @@ const IT_3105 = [
     name: "Taraya, Mark Anthony S.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3609,10 +2585,6 @@ const IT_3105 = [
         link: "https://claudehanniel30.github.io/Claude-Hanniel/",
         code: "https://github.com/claudehanniel30/Claude-Hanniel",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3623,10 +2595,6 @@ const IT_3105 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3634,10 +2602,6 @@ const IT_3105 = [
     name: "Virtucio, Alecxelle M.",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3654,10 +2618,6 @@ const IT_3106 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3667,10 +2627,6 @@ const IT_3106 = [
       website: {
         link: "https://centipido319.github.io/vincent-del-rosario/",
         code: "https://github.com/centipido319/vincent-del-rosario",
-      },
-      calculator: {
-        link: "",
-        code: "",
       },
     },
   },
@@ -3682,10 +2638,6 @@ const IT_3106 = [
         link: "https://denver-jake.github.io/Denver-Jake-Lualhati/",
         code: "https://github.com/Denver-Jake/Denver-Jake-Lualhati",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3693,10 +2645,6 @@ const IT_3106 = [
     name: "Mendoza, Shandra Mae",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3713,10 +2661,6 @@ const IT_3107 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3727,10 +2671,6 @@ const IT_3107 = [
         link: "",
         code: "",
       },
-      calculator: {
-        link: "",
-        code: "",
-      },
     },
   },
   {
@@ -3738,10 +2678,6 @@ const IT_3107 = [
     name: "Lazara, Darwin",
     activities: {
       website: {
-        link: "",
-        code: "",
-      },
-      calculator: {
         link: "",
         code: "",
       },
@@ -3760,3 +2696,9 @@ export const SECTION_MAPPING = {
   "it-3106": IT_3106,
   "it-3107": IT_3107,
 }
+
+export const STUDENT_FIELDS = [
+  { key: "code", label: "SRCODE" },
+  { key: "name", label: "Name" },
+  { key: "activities", label: "Link" },
+]

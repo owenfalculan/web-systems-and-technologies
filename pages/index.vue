@@ -2,15 +2,24 @@
   <section class="container my-4 pb-3">
     <header class="my-5">
       <h1>Web Systems and Technologies Repository</h1>
-      <div>
-        <div>Instructors:</div>
-        <div>Owen Patrick Falculan</div>
+      <div class="my-3">
+        <div class="my-1"><strong>Course Instructors:</strong></div>
         <div>Erwin Enriquez</div>
+        <div>Poul Isaac De Chavez</div>
+        <div>Dean Charliemagne Ramos</div>
+        <div>Owen Patrick Falculan</div>
       </div>
     </header>
-    <PersonalWebsites />
-    <hr />
-    <Notes />
+    <b-card no-body>
+      <b-tabs card>
+        <b-tab title="Personal Websites" active>
+          <PersonalWebsites />
+        </b-tab>
+        <b-tab title="Notes">
+          <Notes />
+        </b-tab>
+      </b-tabs>
+    </b-card>
   </section>
 </template>
 
