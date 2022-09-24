@@ -1354,8 +1354,8 @@ const IT_3105 = [
     name: "Jumarang, Kevin I.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kevinjumarang.github.io/Kevin-Ilagan/",
+        code: "https://github.com/KevinJumarang/Kevin-Ilagan",
       },
       calculator: {
         link: "",
