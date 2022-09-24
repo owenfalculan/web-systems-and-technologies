@@ -60,8 +60,8 @@ const IT_3103 = [
     name: "Comia, Paul Angelo M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://plnglo04.github.io/paul-comia/",
+        code: "https://github.com/Plnglo04/paul-comia.git",
       },
       calculator: {
         link: "",
