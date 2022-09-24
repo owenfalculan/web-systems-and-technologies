@@ -2,7 +2,11 @@
   <section class="container my-4 pb-3">
     <header class="my-5">
       <h1>Web Systems and Technologies Repository</h1>
-      <p>Instructor: Owen Patrick Falculan</p>
+      <div>
+        <p>Instructor:</p>
+        <div>Owen Patrick Falculan</div>
+        <div>Erwin Enriquez</div>
+      </div>
     </header>
     <PersonalWebsites />
     <hr />

@@ -2368,8 +2368,8 @@ const IT_3103 = [
     name: "Melo, Patricia Mae G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://patmelo.github.io/patricia-melo/",
+        code: "https://github.com/patmelo/patricia-melo",
       },
       calculator: {
         link: "",
