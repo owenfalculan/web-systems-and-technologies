@@ -456,8 +456,8 @@ const IT_3103 = [
         code: "https://github.com/piolorvr/sito-web-personale.git",
       },
       calculator: {
-        link: "https://ezaira.github.io/ezaira-sandoval/",
-        code: "https://github.com/Ezaira/ezaira-sandoval.git",
+        link: "",
+        code: "",
       },
     },
   },
@@ -466,8 +466,8 @@ const IT_3103 = [
     name: "Sandoval, Ezaira C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ezaira.github.io/ezaira-sandoval/",
+        code: "https://github.com/Ezaira/ezaira-sandoval.git",
       },
       calculator: {
         link: "",
