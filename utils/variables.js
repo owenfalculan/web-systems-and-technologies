@@ -3200,8 +3200,8 @@ const IT_3105 = [
     name: "Cordero, Florie Mae A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://floriemaecordero.github.io/florie/",
+        code: "https://github.com/FlorieMaeCordero/florie",
       },
       calculator: {
         link: "",
