@@ -214,8 +214,8 @@ const IT_3103 = [
     name: "Fancubit, Angel Joy F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://eynjiljoy.github.io/Angel-Joy-Fancubit/",
+        code: "https://github.com/eynjiljoy/Angel-Joy-Fancubit.git",
       },
       calculator: {
         link: "",
