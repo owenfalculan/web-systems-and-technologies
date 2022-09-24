@@ -1494,8 +1494,8 @@ const IT_3105 = [
     name: "Marasigan, Mitch M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mitchmarasigan.github.io/mitch-marasigan/",
+        code: "https://github.com/MITCHMARASIGAN/mitch-marasigan.git",
       },
       calculator: {
         link: "",
