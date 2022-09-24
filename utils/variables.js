@@ -1130,8 +1130,8 @@ const IT_3105 = [
     name: "Bon, John Paul T.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johnpaulbon.github.io/john-paul/",
+        code: "https://github.com/Johnpaulbon/john-paul.git",
       },
       calculator: {
         link: "",
@@ -1620,8 +1620,8 @@ const IT_3105 = [
     name: "Tarrayo, Claude Hanniel V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://claudehanniel30.github.io/Claude-Hanniel/",
+        code: "https://github.com/claudehanniel30/Claude-Hanniel",
       },
       calculator: {
         link: "",
