@@ -1693,8 +1693,8 @@ const IT_3106 = [
     name: "Lualhati, Denver Jake D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://denver-jake.github.io/Denver-Jake-Lualhati/",
+        code: "https://github.com/Denver-Jake/Denver-Jake-Lualhati",
       },
       calculator: {
         link: "",
