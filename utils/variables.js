@@ -2102,8 +2102,8 @@ const IT_3103 = [
     name: "Delos Santos, Thea Clarisse P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://xthclrs.github.io/delos-santos-thea/",
+        code: "https://github.com/xthclrs/delos-santos-thea",
       },
       calculator: {
         link: "",
