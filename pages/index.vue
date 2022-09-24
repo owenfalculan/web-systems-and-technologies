@@ -3,7 +3,7 @@
     <header class="my-5">
       <h1>Web Systems and Technologies Repository</h1>
       <div>
-        <p>Instructor:</p>
+        <div>Instructors:</div>
         <div>Owen Patrick Falculan</div>
         <div>Erwin Enriquez</div>
       </div>
