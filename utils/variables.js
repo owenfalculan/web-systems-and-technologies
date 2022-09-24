@@ -1466,8 +1466,8 @@ const IT_3105 = [
     name: "Maranan, Nicole Shelley C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://marananshelley.github.io/shelley-maranan/",
+        code: "https://github.com/marananshelley/shelley-maranan",
       },
       calculator: {
         link: "",
