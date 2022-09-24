@@ -1228,8 +1228,8 @@ const IT_3105 = [
     name: "Cueto, Rica Mae P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: " https://cuetorica.github.io/rica.cueto/",
+        code: "https://github.com/cuetorica/rica.cueto",
       },
       calculator: {
         link: "",
