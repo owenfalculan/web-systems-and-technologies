@@ -1424,8 +1424,8 @@ const IT_3105 = [
     name: "Manalo, Lance Khristian B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://lncemnlo.github.io/Personal-Website/",
+        code: "https://github.com/lncemnlo/Personal-Website",
       },
       calculator: {
         link: "",
