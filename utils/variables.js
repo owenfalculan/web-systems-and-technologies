@@ -270,8 +270,8 @@ const IT_3103 = [
     name: "Lucero, Darell Marius S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://darell207.github.io/darell-personal/",
+        code: "https://github.com/Darell207/darell-personal.git",
       },
       calculator: {
         link: "",
