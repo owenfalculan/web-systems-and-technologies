@@ -1536,8 +1536,8 @@ const IT_3105 = [
     name: "Mendoza, Cendric E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://cendric032.github.io/personal-website/",
+        code: "https://github.com/Cendric032/personal-website",
       },
       calculator: {
         link: "",
