@@ -1410,8 +1410,8 @@ const IT_3105 = [
     name: "Macuha, Keith Leslie H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://macuhakeith.github.io/keith.macuha/",
+        code: "https://github.com/macuhakeith/keith.macuha",
       },
       calculator: {
         link: "",
