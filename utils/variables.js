@@ -312,8 +312,8 @@ const IT_3103 = [
     name: "Malaluan, Arvin C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://arvinmalaluan.github.io/arvin.malaluan-websiteproto/",
+        code: "https://github.com/arvinmalaluan/arvin.malaluan-websiteproto.git",
       },
       calculator: {
         link: "",
