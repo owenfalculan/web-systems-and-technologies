@@ -1,3 +1,849 @@
+const CS_3101 = [
+  {
+    code: "19-08638",
+    name: "Aguilar, Karl Joseph A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-02289",
+    name: "Agulo, Arnel D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05361",
+    name: "Amatus, Angelika T.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-08574",
+    name: "Amboy, Niño Andrey H.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-03582",
+    name: "Balason, Shekyna S.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00410",
+    name: "Cantos, Len Aubrey Z.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-03987",
+    name: "Carurucan, John Mikko B.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00435",
+    name: "Clemente, Joshua F.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-04562",
+    name: "Cuartero, Tristan Jorge",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-04447",
+    name: "Endaya, John Carlo S.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05845",
+    name: "Espinola I, Hubert F.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05892",
+    name: "Glorioso, Ronald Rey C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00010",
+    name: "Gomez, John Luis D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05379",
+    name: "Lagamon, Miguel Enrico B.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-01802",
+    name: "Laqui, Jamie Rose M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-06745",
+    name: "Magadia, Alliyah Aina C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07604",
+    name: "Malibiran, Darren S.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-03001",
+    name: "Maligalig, Mark Angelo A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-06504",
+    name: "Mandigma, Paul Vincent A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-04600",
+    name: "Marundan, Marc Francis D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00139",
+    name: "Militante, Zyrah",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-06113",
+    name: "Reaño, Kenneth Joshua O.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07110",
+    name: "Salazar, Dhames Aryel M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00521",
+    name: "Santos, Adrian Dwyne A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-09195",
+    name: "Santos, Angelo Noel C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-03696",
+    name: "Sealquil, Niño A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00265",
+    name: "Simbiray, Glen A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07496",
+    name: "Tecson, Kairus Noah E.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-02141",
+    name: "Valdez, Dominic Miko G.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00862",
+    name: "Villena, Lj Britney R.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+]
+
+const CS_3102 = [
+  {
+    code: "20-08077",
+    name: "Bagos, Kyle Andrei D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-02713",
+    name: "Cabatic, Bryan Andrei L.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-09569",
+    name: "Casapao, Sherine V.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07837",
+    name: "Crisang, Lance Daniel M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-06186",
+    name: "Del Mundo, Ron Iverson S.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-09069",
+    name: "Dela Cruz, Christine Valerie M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00838",
+    name: "Dimaculangan, Josh Ryan S.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-04443",
+    name: "Ebora, Dianne H.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05708",
+    name: "Esguerra, Kristianne Blessy C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00761",
+    name: "Espiritu, Joshua Del P.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-01667",
+    name: "Gasco, Aira Charisse T.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05801",
+    name: "Gutierrez, Rommel C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-08416",
+    name: "Harina, Rizcen Roz C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-04529",
+    name: "Hernandez, Ivan John E.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07752",
+    name: "Hombre, Lloyd Jerome M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-09333",
+    name: "Ilagan, Ulysis N.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05167",
+    name: "Jose, Hannah Rose C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-06969",
+    name: "Lugatic, Marienne Isabelle D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07146",
+    name: "Maac, Mikaela C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-03814",
+    name: "Madrigalejos, Abie S.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-09864",
+    name: "Magboo, Lady Carina B.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05858",
+    name: "Mendoza, Patrick James C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07042",
+    name: "Ortega, Giorevh Mcjude V.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00592",
+    name: "Santiago, Angelo Gener V.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "18-51242",
+    name: "Sulit, Kian Zyrille B.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "19-03185",
+    name: "Vale, Adriel Joshua M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-01964",
+    name: "Velasco, Maria Daniela D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-09280",
+    name: "Vergara, Joseph Emmanuel R.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07119",
+    name: "Villota, Jan Ella T.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07925",
+    name: "Tripulca, Kimberly A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+      calculator: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+]
+
 const IT_3103 = [
   {
     code: "20-01224",
@@ -1764,6 +2610,8 @@ const IT_3107 = [
 ]
 
 export const SECTION_MAPPING = {
+  "cs-3101": CS_3101,
+  "cs-3102": CS_3102,
   "it-3103": IT_3103,
   "it-3104": IT_3104,
   "it-3105": IT_3105,

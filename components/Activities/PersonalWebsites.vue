@@ -31,6 +31,8 @@ export default {
     return {
       fields: ["section", { key: "link", label: "" }],
       items: [
+        { section: "CS-3101" },
+        { section: "CS-3102" },
         { section: "IT-3103" },
         { section: "IT-3104" },
         { section: "IT-3105" },
