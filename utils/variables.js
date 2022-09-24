@@ -1130,8 +1130,8 @@ const IT_3105 = [
     name: "Bon, John Paul T.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johnpaulbon.github.io/john-paul/",
+        code: "https://github.com/Johnpaulbon/john-paul.git",
       },
       calculator: {
         link: "",
