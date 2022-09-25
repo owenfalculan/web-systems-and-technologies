@@ -1899,8 +1899,8 @@ const IT_3104 = [
     name: "Banalan, Jerald D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jeraldb.github.io/JeraldPersonalWeb/",
+        code: "https://github.com/JeraldB/JeraldPersonalWeb",
       },
     },
   },
