@@ -2512,8 +2512,8 @@ const IT_3105 = [
     name: "Marquez, Mark Angelo Z.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://angelozmarq.github.io/markangelomarquez/",
+        code: "https://github.com/angelozmarq/markangelomarquez",
       },
     },
   },
