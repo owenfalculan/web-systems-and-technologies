@@ -160,8 +160,6 @@ Then click create pull request.
 ![compare-and-pull-request](./docs/images/compare-and-pull-request.png)
 ![](./docs/images/create-pull-request.png)
 
-<br>
-
-### After I merged your pull request. Your website will be available [here](https://owenfalculan.github.io/web-systems-and-technologies/).
+After I merged your pull request. Your website will be available [here](https://owenfalculan.github.io/web-systems-and-technologies/).
 
 ![web-systems-repo](./docs/images/web-systems-repo.png)
