@@ -1,5 +1,15 @@
 const CS_3101 = [
   {
+    code: "18-02631",
+    name: "Falculan, Owen Patrick F.",
+    activities: {
+      website: {
+        link: "https://owenfalculan.github.io/owen-falculan/",
+        code: "https://github.com/owenfalculan/owen-falculan",
+      },
+    },
+  },
+  {
     code: "19-08638",
     name: "Aguilar, Karl Joseph A.",
     activities: {
