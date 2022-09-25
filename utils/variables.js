@@ -2202,8 +2202,8 @@ const IT_3105 = [
     name: "Arguelles, Alma Mae L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ams-mai.github.io/almamaearguelles/",
+        code: "https://github.com/ams-mai/almamaearguelles",
       },
     },
   },
