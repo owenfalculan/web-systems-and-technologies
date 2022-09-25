@@ -75,8 +75,8 @@ git branch
 Sample:
 links: {
   website: {
-    link: "https://ams-mai.github.io/almamaearguelles/",
-    code: "https://github.com/ams-mai/almamaearguelles",
+    link: "https://owenfalculan.github.io/web-systems-and-technologies/",
+    code: "https://github.com/owenfalculan/web-systems-and-technologies",
   },
   calculator: "",
 },
