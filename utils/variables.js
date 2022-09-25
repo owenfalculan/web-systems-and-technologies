@@ -1536,8 +1536,8 @@ const IT_3103 = [
     name: "Engay, Krystel Sofia G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kryxsofiaengay.github.io/KrystelSofiaEngayWeb/",
+        code: "https://github.com/kryxsofiaengay/KrystelSofiaEngayWeb",
       },
     },
   },
