@@ -1939,8 +1939,8 @@ const IT_3104 = [
     name: "Calingasan, Maher H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mahermiel.github.io/CalingasanMaher/",
+        code: "https://github.com/MaherMiel/CalingasanMaher",
       },
     },
   },
