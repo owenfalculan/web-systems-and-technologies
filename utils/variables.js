@@ -1446,8 +1446,8 @@ const IT_3103 = [
     name: "Balmes, Cristian King F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ckbalmes22.github.io/cristian-king-balmes/",
+        code: "https://github.com/owenfalculan/web-systems-and-technologies",
       },
     },
   },
