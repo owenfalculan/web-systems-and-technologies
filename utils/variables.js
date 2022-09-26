@@ -337,8 +337,8 @@ const CS_3102 = [
     name: "Crisang, Lance Daniel M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://xapier14.github.io/",
+        code: "https://github.com/Xapier14/Xapier14.github.io",
       },
     },
   },
