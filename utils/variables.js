@@ -2109,8 +2109,8 @@ const IT_3104 = [
     name: "Rondero, Vincent Patrick S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://vincentrondero.github.io/V_Rondero/",
+        code: "https://github.com/vincentrondero/V_Rondero.git",
       },
     },
   },
