@@ -1446,8 +1446,8 @@ const IT_3103 = [
     name: "Balmes, Cristian King F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ckbalmes22.github.io/cristian-king-balmes/",
+        code: "https://github.com/ckbalmes22/cristian-king-balmes.git",
       },
     },
   },
@@ -1676,8 +1676,8 @@ const IT_3103 = [
     name: "Mandigma, Grace M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://grcmndgma.github.io/gracemandigmaweb/",
+        code: "https://github.com/grcmndgma/gracemandigmaweb",
       },
     },
   },
@@ -1879,8 +1879,8 @@ const IT_3104 = [
     name: "Atienza, Jansen Karl H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jansenatienza.github.io/atienza-jansen/",
+        code: "https://github.com/jansenatienza/atienza-jansen.git",
       },
     },
   },
@@ -1949,8 +1949,8 @@ const IT_3104 = [
     name: "Caraig, Randolf Andrew P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://randolfcaraig.github.io/randolf-caraig/",
+        code: "https://github.com/randolfcaraig/randolf-caraig",
       },
     },
   },
@@ -2109,8 +2109,8 @@ const IT_3104 = [
     name: "Rondero, Vincent Patrick S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://vincentrondero.github.io/V_Rondero/",
+        code: "https://github.com/vincentrondero/V_Rondero.git",
       },
     },
   },
