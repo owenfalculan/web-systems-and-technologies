@@ -1676,8 +1676,8 @@ const IT_3103 = [
     name: "Mandigma, Grace M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://grcmndgma.github.io/gracemandigmaweb/",
+        code: "https://github.com/grcmndgma/gracemandigmaweb",
       },
     },
   },
