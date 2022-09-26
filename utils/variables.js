@@ -1879,8 +1879,8 @@ const IT_3104 = [
     name: "Atienza, Jansen Karl H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jansenatienza.github.io/atienza-jansen/",
+        code: "https://github.com/jansenatienza/atienza-jansen.git",
       },
     },
   },
