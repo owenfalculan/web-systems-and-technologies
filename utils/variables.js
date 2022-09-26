@@ -2252,8 +2252,8 @@ const IT_3105 = [
     name: "Calingasan, Alessandra P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://driaaa.github.io/alessandra-calingasan/",
+        code: "https://github.com/Driaaa/alessandra-calingasan",
       },
     },
   },
