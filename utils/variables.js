@@ -1949,8 +1949,8 @@ const IT_3104 = [
     name: "Caraig, Randolf Andrew P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://randolfcaraig.github.io/randolf-caraig/",
+        code: "https://github.com/randolfcaraig/randolf-caraig",
       },
     },
   },
