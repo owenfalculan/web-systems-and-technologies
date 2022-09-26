@@ -1447,7 +1447,7 @@ const IT_3103 = [
     activities: {
       website: {
         link: "https://ckbalmes22.github.io/cristian-king-balmes/",
-        code: "https://github.com/owenfalculan/web-systems-and-technologies",
+        code: "https://github.com/ckbalmes22/cristian-king-balmes.git",
       },
     },
   },
