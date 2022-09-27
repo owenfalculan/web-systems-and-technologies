@@ -1969,8 +1969,8 @@ const IT_3104 = [
     name: "Chavez, Ivan Louige H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ivanchavez25.github.io/Ivan-Chavez/",
+        code: "https://github.com/IvanChavez25/Ivan-Chavez",
       },
     },
   },
