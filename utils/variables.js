@@ -2029,8 +2029,8 @@ const IT_3104 = [
     name: "Magnaye, John Vincent L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://janbii.github.io/Personal-Website/",
+        code: "https://github.com/JanBii/Personal-Website.git",
       },
     },
   },
