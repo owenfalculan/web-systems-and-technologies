@@ -4,8 +4,8 @@ const CS_3101 = [
     name: "Aguilar, Karl Joseph A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mragui.github.io/",
+        code: "https://github.com/MrAgui/mrAgui.github.io.git",
       },
     },
   },
