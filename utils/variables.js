@@ -1819,8 +1819,8 @@ const IT_3104 = [
     name: "Alday, Ryan Joseph R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://aldayrj.github.io/ryanjoseph-alday/",
+        code: "https://github.com/Aldayrj/ryanjoseph-alday.git",
       },
     },
   },
