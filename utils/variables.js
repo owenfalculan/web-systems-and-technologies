@@ -2039,8 +2039,8 @@ const IT_3104 = [
     name: "Manalo, John Louis P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://luwiya.github.io/website-about-myself/",
+        code: "https://github.com/luwiya/website-about-myself",
       },
     },
   },
