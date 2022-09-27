@@ -1919,8 +1919,8 @@ const IT_3104 = [
     name: "Brazil, Anna Marie B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://annabrazil.github.io/anna-brazil/",
+        code: "https://github.com/annabrazil/anna-brazil",
       },
     },
   },
