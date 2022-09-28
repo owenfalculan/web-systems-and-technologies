@@ -2222,8 +2222,8 @@ const IT_3105 = [
     name: "Bendaña, Maria Nimuel L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://marianimuel.github.io/Nimuel-Bendana/",
+        code: "https://github.com/marianimuel/Nimuel-Bendana.git",
       },
     },
   },
