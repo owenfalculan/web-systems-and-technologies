@@ -2009,8 +2009,8 @@ const IT_3104 = [
     name: "Godoy, Geofrey Miguel M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://geofreygoddy.github.io/geofreymiguel-godoy/",
+        code: "https://github.com/geofreygoddy/geofreymiguel-godoy.git",
       },
     },
   },
