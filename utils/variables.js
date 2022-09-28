@@ -1959,8 +1959,8 @@ const IT_3104 = [
     name: "Celis, Monalenne Joy M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://monalennejoy.github.io/monalennejoycelis/",
+        code: "https://github.com/monalennejoy/monalennejoycelis.git",
       },
     },
   },
