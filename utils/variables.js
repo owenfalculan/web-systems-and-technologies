@@ -2192,8 +2192,8 @@ const IT_3105 = [
     name: "Aranas, Klaier Anthonette V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://aranasklaier.github.io/klaier-aranas/",
+        code: "https://github.com/aranasklaier/klaier-aranas.git",
       },
     },
   },
