@@ -1656,8 +1656,8 @@ const IT_3103 = [
     name: "Manalo, Deneil O.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://manalodeneil.github.io/deneil-manalo/",
+        code: "https://github.com/Manalodeneil/deneil-manalo",
       },
     },
   },
