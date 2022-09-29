@@ -2372,8 +2372,8 @@ const IT_3105 = [
     name: "Hernandez, Carlo O.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://carloohernandez.github.io/Carlo-O.Hernandez/",
+        code: "https://github.com/CarloOHernandez/Carlo-O.Hernandez.git",
       },
     },
   },
