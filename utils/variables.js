@@ -2182,8 +2182,8 @@ const IT_3105 = [
     name: "Altares, Franklin L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://franklinaltares.github.io/franklin-altares/",
+        code: "https://github.com/franklinaltares/franklin-altares.git",
       },
     },
   },
