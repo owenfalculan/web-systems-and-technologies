@@ -2019,8 +2019,8 @@ const IT_3104 = [
     name: "Gonzales, Myrish C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://myrichhhh.github.io/portweb.github.io/",
+        code: "https://github.com/myrichhhh/portweb.github.io.git",
       },
     },
   },
