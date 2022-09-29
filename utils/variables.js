@@ -1566,8 +1566,8 @@ const IT_3103 = [
     name: "Falculan, Kristel Jane I.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kristel12345.github.io/kristel-jane-falculan/",
+        code: "https://github.com/Kristel12345/kristel-jane-falculan",
       },
     },
   },
