@@ -2099,8 +2099,8 @@ const IT_3104 = [
     name: "Ramirez, Jullie G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://msjolengs.github.io/msjolengs/",
+        code: "https://github.com/msjolengs/msjolengs.git",
       },
     },
   },
