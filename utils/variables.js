@@ -2332,8 +2332,8 @@ const IT_3105 = [
     name: "Dotollo, Jhingchael C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jhingchaeldotollo.github.io/jhingchaeldotollo/",
+        code: "https://github.com/jhingchaeldotollo/jhingchaeldotollo",
       },
     },
   },
