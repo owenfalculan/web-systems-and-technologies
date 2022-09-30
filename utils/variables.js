@@ -2402,8 +2402,8 @@ const IT_3105 = [
     name: "Lardizabal, April Rose B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://aphrodite07.github.io/AprilRose_Lardizabal/",
+        code: "https://github.com/Aphrodite07/AprilRose_Lardizabal.git",
       },
     },
   },
