@@ -1889,8 +1889,8 @@ const IT_3104 = [
     name: "Banaag, Danica Rose D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://shimmayyyy.github.io/myweb.github.io/",
+        code: "https://github.com/Shimmayyyy/myweb.github.io.git",
       },
     },
   },
