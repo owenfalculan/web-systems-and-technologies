@@ -2422,8 +2422,8 @@ const IT_3105 = [
     name: "Lorin, Kyla R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kylalorin.github.io/kyla-lorin/",
+        code: "https://github.com/kylalorin/kyla-lorin",
       },
     },
   },
