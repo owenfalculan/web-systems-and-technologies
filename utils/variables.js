@@ -2602,8 +2602,8 @@ const IT_3105 = [
     name: "Virtucio, Alecxelle M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://alcxllmvrtc.github.io/personal-website/",
+        code: "https://github.com/alcxllmvrtc/personal-website",
       },
     },
   },
