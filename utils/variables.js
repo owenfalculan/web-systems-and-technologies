@@ -2262,8 +2262,8 @@ const IT_3105 = [
     name: "Castillo, James Andrew D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kastilyohayme.github.io/Personal-Web/",
+        code: "https://github.com/KastilyoHayme/Personal-Web",
       },
     },
   },
