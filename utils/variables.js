@@ -2362,8 +2362,8 @@ const IT_3105 = [
     name: "Guilan, Al Vincent",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://alvin-blip.github.io/alvincent-guilan/",
+        code: "https://github.com/Alvin-blip/alvincent-guilan.git",
       },
     },
   },
