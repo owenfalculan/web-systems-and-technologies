@@ -2532,8 +2532,8 @@ const IT_3105 = [
     name: "Omampo, Marjorie C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://pearlmargery.github.io/portfoliowebsite/",
+        code: "https://github.com/PearlMargery/portfoliowebsite.git",
       },
     },
   },
