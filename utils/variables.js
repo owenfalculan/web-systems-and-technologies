@@ -1726,8 +1726,8 @@ const IT_3103 = [
     name: "Pentinio, Keano C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://keanopentinio.github.io/keano-pentinio/",
+        code: "https://github.com/keanopentinio/keano-pentinio",
       },
     },
   },
