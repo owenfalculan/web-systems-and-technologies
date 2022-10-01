@@ -1829,8 +1829,8 @@ const IT_3104 = [
     name: "Amargo, Jericho L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jerichoamargo.github.io/JerichoAmargo/",
+        code: "https://github.com/JerichoAmargo/JerichoAmargo.git",
       },
     },
   },
