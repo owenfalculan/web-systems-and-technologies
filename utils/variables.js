@@ -1596,8 +1596,8 @@ const IT_3103 = [
     name: "Lopez, Keanne E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://keannelopez.github.io/lopez-keanne/",
+        code: "https://github.com/KeanneLopez/lopez-keanne",
       },
     },
   },
