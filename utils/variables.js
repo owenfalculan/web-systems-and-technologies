@@ -1436,8 +1436,8 @@ const IT_3103 = [
     name: "Aniag, Angeline S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://angelineaniag.github.io/angelineaniag/",
+        code: "https://github.com/AngelineAniag/angelineaniag.git",
       },
     },
   },
@@ -1706,8 +1706,8 @@ const IT_3103 = [
     name: "Panaligan, Kaycee A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kpanaligan.github.io/panaligan/",
+        code: "https://github.com/kpanaligan/panaligan.git",
       },
     },
   },
@@ -2049,8 +2049,8 @@ const IT_3104 = [
     name: "Manimtim, Justin H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://justinmanimtim.github.io/PersonalWeb.github.io/",
+        code: "https://github.com/JustinManimtim/PersonalWeb.github.io.git",
       },
     },
   },
