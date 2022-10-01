@@ -1989,8 +1989,8 @@ const IT_3104 = [
     name: "Erasmo, John Carlo A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johncarloerasmo.github.io/JCErasmo/",
+        code: "https://github.com/JohnCarloErasmo/JCErasmo.git",
       },
     },
   },
