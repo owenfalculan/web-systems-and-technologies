@@ -2668,8 +2668,8 @@ const IT_3107 = [
     name: "Comia, Gerachelle Grace F. ",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://gerachelle.github.io/gerachelle-comia/",
+        code: "https://github.com/Gerachelle/gerachelle-comia",
       },
     },
   },
