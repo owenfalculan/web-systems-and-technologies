@@ -2645,8 +2645,8 @@ const IT_3106 = [
     name: "Mendoza, Shandra Mae",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://shandramae.github.io/Personal-Website/",
+        code: "https://github.com/ShandraMae/Personal-Website",
       },
     },
   },
