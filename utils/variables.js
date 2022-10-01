@@ -1516,8 +1516,8 @@ const IT_3103 = [
     name: "Duño, Razell A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dunoraz.github.io/razell-duno/",
+        code: "https://github.com/dunoraz/razell-duno.git",
       },
     },
   },
