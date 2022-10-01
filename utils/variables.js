@@ -2312,8 +2312,8 @@ const IT_3105 = [
     name: "De Chavez, Kier Aljon M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://anonkly.github.io/aljon-website/",
+        code: "https://github.com/AnonKly/aljon-website",
       },
     },
   },
