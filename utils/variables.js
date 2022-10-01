@@ -1796,8 +1796,8 @@ const IT_3103 = [
     name: "Uy, Princess Ann Margaret E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://prncssannmrgrtuy.github.io/princess/",
+        code: "https://github.com/PrncssAnnMrgrtUy/princess",
       },
     },
   },
