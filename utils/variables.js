@@ -2412,8 +2412,8 @@ const IT_3105 = [
     name: "Limpiada, John Patrick R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://limpiadajohn.github.io/Personal-Website/",
+        code: "https://github.com/LimpiadaJohn/Personal-Website",
       },
     },
   },
@@ -2668,8 +2668,8 @@ const IT_3107 = [
     name: "Comia, Gerachelle Grace F. ",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://gerachelle.github.io/gerachelle-comia/",
+        code: "https://github.com/Gerachelle/gerachelle-comia",
       },
     },
   },
