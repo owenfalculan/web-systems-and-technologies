@@ -2212,8 +2212,8 @@ const IT_3105 = [
     name: "Balmes, Pamela Bianca B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://pbpogiiii.github.io/personal-website/",
+        code: "https://github.com/pbpogiiii/personal-website",
       },
     },
   },
