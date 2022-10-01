@@ -2615,8 +2615,8 @@ const IT_3106 = [
     name: "Borja, Jessther",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jessther.github.io/personal-website/",
+        code: "https://github.com/Jessther/personal-website.git",
       },
     },
   },
