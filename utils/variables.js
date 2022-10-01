@@ -2272,8 +2272,8 @@ const IT_3105 = [
     name: "Catibog, Jomhar Kelly A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jomhar823.github.io/Jomhar-Catibog/",
+        code: "https://github.com/jomhar823/Jomhar-Catibog.git",
       },
     },
   },
