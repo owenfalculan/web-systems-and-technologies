@@ -1706,8 +1706,8 @@ const IT_3103 = [
     name: "Panaligan, Kaycee A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kpanaligan.github.io/panaligan/",
+        code: "https://github.com/kpanaligan/panaligan.git",
       },
     },
   },
