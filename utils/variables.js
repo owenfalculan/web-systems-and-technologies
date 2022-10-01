@@ -2542,8 +2542,8 @@ const IT_3105 = [
     name: "Reyes, Bryan James C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://bryanjames21.github.io/BryanJamesReyes/",
+        code: "https://github.com/BryanJames21/BryanJamesReyes.git",
       },
     },
   },
@@ -2645,8 +2645,8 @@ const IT_3106 = [
     name: "Mendoza, Shandra Mae",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://shandramae.github.io/Personal-Website/",
+        code: "https://github.com/ShandraMae/Personal-Website",
       },
     },
   },
