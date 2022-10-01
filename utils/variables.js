@@ -2159,8 +2159,8 @@ const IT_3104 = [
     name: "Villoria, Queen Dianne F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://queendianne.github.io/diannevilloria/",
+        code: "https://github.com/QueenDianne/diannevilloria",
       },
     },
   },
