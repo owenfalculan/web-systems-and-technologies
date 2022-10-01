@@ -2049,8 +2049,8 @@ const IT_3104 = [
     name: "Manimtim, Justin H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://justinmanimtim.github.io/PersonalWeb.github.io/",
+        code: "https://github.com/JustinManimtim/PersonalWeb.github.io.git",
       },
     },
   },
