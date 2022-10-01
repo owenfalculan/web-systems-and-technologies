@@ -2412,8 +2412,8 @@ const IT_3105 = [
     name: "Limpiada, John Patrick R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://limpiadajohn.github.io/Personal-Website/",
+        code: "https://github.com/LimpiadaJohn/Personal-Website",
       },
     },
   },
