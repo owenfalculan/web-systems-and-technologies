@@ -2542,8 +2542,8 @@ const IT_3105 = [
     name: "Reyes, Bryan James C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://bryanjames21.github.io/BryanJamesReyes/",
+        code: "https://github.com/BryanJames21/BryanJamesReyes.git",
       },
     },
   },
