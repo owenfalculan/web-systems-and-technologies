@@ -2352,8 +2352,8 @@ const IT_3105 = [
     name: "Faner , Roberto Jr. F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://riritu.github.io/WSTR-Repository/",
+        code: "https://github.com/riritu/WSTR-Repository",
       },
     },
   },
