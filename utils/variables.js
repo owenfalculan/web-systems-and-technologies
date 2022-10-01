@@ -2139,8 +2139,8 @@ const IT_3104 = [
     name: "Santoc, Jerome G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jeromesantoc.github.io/main/",
+        code: "https://github.com/JeromeSantoc/main.git",
       },
     },
   },
