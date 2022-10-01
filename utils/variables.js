@@ -1606,8 +1606,8 @@ const IT_3103 = [
     name: "Lopez, Shaira Mae A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://shayralopez.github.io/lopez-shaira/",
+        code: "https://github.com/shayralopez/lopez-shaira",
       },
     },
   },
