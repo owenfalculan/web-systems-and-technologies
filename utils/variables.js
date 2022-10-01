@@ -2172,8 +2172,8 @@ const IT_3105 = [
     name: "Abude, Anthony P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://abudeanthony.github.io/personal-website/",
+        code: "https://github.com/AbudeAnthony/personal-website",
       },
     },
   },
