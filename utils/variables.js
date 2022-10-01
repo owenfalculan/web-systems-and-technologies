@@ -1476,8 +1476,8 @@ const IT_3103 = [
     name: "Cortez, Joseph S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://cortezjoseph.github.io/joseph-cortez/",
+        code: "https://github.com/cortezjoseph/joseph-cortez.git",
       },
     },
   },
