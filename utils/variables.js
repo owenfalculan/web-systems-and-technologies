@@ -2382,8 +2382,8 @@ const IT_3105 = [
     name: "Ibabao, Gabriel Alexis A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://sharky0824.github.io/Gabriel-Ibabao/",
+        code: "https://github.com/Sharky0824/Gabriel-Ibabao",
       },
     },
   },
