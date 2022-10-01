@@ -1436,8 +1436,8 @@ const IT_3103 = [
     name: "Aniag, Angeline S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://angelineaniag.github.io/angelineaniag/",
+        code: "https://github.com/AngelineAniag/angelineaniag.git",
       },
     },
   },
