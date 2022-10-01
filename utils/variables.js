@@ -2462,8 +2462,8 @@ const IT_3105 = [
     name: "Manansala, Marc Aaron A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://marcaaron01.github.io/Marc-Aaron/",
+        code: "https://github.com/marcaaron01/Marc-Aaron.git",
       },
     },
   },
