@@ -2592,8 +2592,8 @@ const IT_3105 = [
     name: "Tumambing, Kian Jaysther B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://pastorjun.github.io/personal-website/",
+        code: "https://github.com/PastorJun/personal-website",
       },
     },
   },
