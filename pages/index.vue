@@ -7,6 +7,7 @@
         <div>Erwin Enriquez</div>
         <div>Poul Isaac De Chavez</div>
         <div>Dean Charliemagne Ramos</div>
+        <div>Gerald James Daño</div>
         <div>Owen Patrick Falculan</div>
       </div>
     </header>

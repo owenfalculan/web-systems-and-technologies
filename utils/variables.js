@@ -2611,7 +2611,7 @@ const IT_3105 = [
 
 const IT_3106 = [
   {
-    code: "20,02942",
+    code: "20-02942",
     name: "Borja, Jessther",
     activities: {
       website: {
