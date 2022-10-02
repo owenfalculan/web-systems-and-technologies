@@ -2079,8 +2079,8 @@ const IT_3104 = [
     name: "Otagan, Mickey T.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mickeyotagan.github.io/mywebportfolio/",
+        code: "https://github.com/mickeyotagan/mywebportfolio.git",
       },
     },
   },
