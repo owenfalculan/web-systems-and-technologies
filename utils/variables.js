@@ -2655,7 +2655,7 @@ const IT_3106 = [
 const IT_3107 = [
   {
     code: "20-03212",
-    name: "Albero, Krizia Valerie Z. ",
+    name: "Albero, Krizia Valerie Z.",
     activities: {
       website: {
         link: "",
@@ -2665,7 +2665,7 @@ const IT_3107 = [
   },
   {
     code: "20-05817",
-    name: "Comia, Gerachelle Grace F. ",
+    name: "Comia, Gerachelle Grace F.",
     activities: {
       website: {
         link: "https://gerachelle.github.io/gerachelle-comia/",
@@ -2685,6 +2685,309 @@ const IT_3107 = [
   },
 ]
 
+const MABINI = [
+  {
+    code: "20-48082",
+    name: "Balawing, Juliena A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-46950",
+    name: "Bello, Moniq Yvette P.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-43622",
+    name: "Ilagan, Princes Eva M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-42437",
+    name: "Isla, Jay R C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-43715",
+    name: "Panopio, Angelyn C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-43371",
+    name: "Reyes, Allainer C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "18-51507",
+    name: "Umali, Aljon G.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-45380",
+    name: "Abe, Lhudymuel I.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-45320",
+    name: "Almario, Mark Andrew D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-40821",
+    name: "Arasula, Junior D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-43076",
+    name: "Asilo, Carl Aejemarc E.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-49735",
+    name: "Bantugon, Ray M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-42256",
+    name: "Dalangin, Nelvin Jaylord A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-49609",
+    name: "Dalawampu, Joshua David A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-43709",
+    name: "Datinguinoo, Romano V.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-43965",
+    name: "Espinosa, Dereck William M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-46839",
+    name: "Fabricante, Angeline D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-47417",
+    name: "Jaso, Aedrian Jacklord A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-48731",
+    name: "Jaudalso, John Francis M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-42649",
+    name: "Largado, Charlene Gale C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-48455",
+    name: "Magboo, Bon Jovi D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-42003",
+    name: "Magboo, Ella Mae G.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-46297",
+    name: "Magtibay, Marizchelle M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-45394",
+    name: "Mallada, Ammie Joy C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-44612",
+    name: "Mallari, Lawrence R.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-40996",
+    name: "Narzoles, Arlyn D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-49929",
+    name: "Quijano, Raizhell Ann B.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-40170",
+    name: "Sawali, Jomel V.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-40143",
+    name: "Taniongon, Kevin Anderson D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-43991",
+    name: "Valdrez, Michael D.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+]
+
 export const SECTION_MAPPING = {
   "cs-3101": CS_3101,
   "cs-3102": CS_3102,
@@ -2695,6 +2998,7 @@ export const SECTION_MAPPING = {
   "it-3105": IT_3105,
   "it-3106": IT_3106,
   "it-3107": IT_3107,
+  mabini: MABINI,
 }
 
 export const STUDENT_FIELDS = [

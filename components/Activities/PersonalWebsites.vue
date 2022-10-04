@@ -79,6 +79,7 @@ export default {
         { section: "IT-3105" },
         { section: "IT-3106" },
         { section: "IT-3107" },
+        { section: "Mabini" },
       ],
       search: "",
       students: _.flattenDeep(_.values(SECTION_MAPPING)),
