@@ -1976,7 +1976,7 @@ const IT_3104 = [
   },
   {
     code: "20-02464",
-    name: "Delgado, Manaloeriel L.",
+    name: "Delgado, Mark Meriel L.",
     activities: {
       website: {
         link: "https://markmeriel.github.io/Personal-Website/",
