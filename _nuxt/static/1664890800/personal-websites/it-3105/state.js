@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fweb-systems-and-technologies\u002F_nuxt\u002Fstatic\u002F1664890800",layout:"default",error:a,serverRendered:true,routePath:"\u002Fpersonal-websites\u002Fit-3105",config:{_app:{basePath:"\u002Fweb-systems-and-technologies\u002F",assetsPath:"\u002Fweb-systems-and-technologies\u002F_nuxt\u002F",cdnURL:a}}}}(null));
