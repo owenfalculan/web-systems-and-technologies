@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/personal-websites/mabini", {data:[{}],fetch:{},mutations:void 0});
