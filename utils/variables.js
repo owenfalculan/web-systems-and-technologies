@@ -2452,8 +2452,8 @@ const IT_3105 = [
     name: "Manalo, Mark Angelo U.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://markmanalo07.github.io/MarkMannalo/",
+        code: "https://github.com/MarkManalo07/MarkMannalo.git",
       },
     },
   },
