@@ -2129,8 +2129,8 @@ const IT_3104 = [
     name: "Sangalang, Ralph Matthew M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ays-kofi.github.io/Ralph-Matthew-M.-Sangalang/",
+        code: "https://github.com/Ays-Kofi/Ralph-Matthew-M.-Sangalang",
       },
     },
   },
