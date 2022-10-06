@@ -244,8 +244,8 @@ const CS_3101 = [
     name: "Santos, Angelo Noel C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://sanjero20.github.io/",
+        code: "https://github.com/Sanjero20/Sanjero20.github.io",
       },
     },
   },
