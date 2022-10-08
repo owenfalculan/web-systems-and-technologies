@@ -1526,8 +1526,8 @@ const IT_3103 = [
     name: "Elejorde, Jussel",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://justellmee.github.io/jussel-elejord/",
+        code: "https://github.com/justellmee/jussel-elejord",
       },
     },
   },
