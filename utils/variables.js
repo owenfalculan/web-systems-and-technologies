@@ -2552,8 +2552,8 @@ const IT_3105 = [
     name: "Sarmiento, Leomel D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://sarmientoleomel.github.io/personal-web/",
+        code: "https://github.com/Sarmientoleomel/personal-web",
       },
     },
   },
