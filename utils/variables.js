@@ -2621,6 +2621,16 @@ const IT_3106 = [
     },
   },
   {
+    code: "20-02488",
+    name: "Daquis, Chelsea Claire",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
     code: "20-06149",
     name: "Del Rosario, Vincent S.",
     activities: {
@@ -2647,6 +2657,16 @@ const IT_3106 = [
       website: {
         link: "https://shandramae.github.io/Personal-Website/",
         code: "https://github.com/ShandraMae/Personal-Website",
+      },
+    },
+  },
+  {
+    code: "20-00631",
+    name: "Tamayo, Rachel Anne",
+    activities: {
+      website: {
+        link: "",
+        code: "",
       },
     },
   },
