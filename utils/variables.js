@@ -2625,8 +2625,8 @@ const IT_3106 = [
     name: "Daquis, Chelsea Claire",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://chelseaclairegd.github.io/hello-chelsea/",
+        code: "https://github.com/chelseaclairegd/hello-chelsea",
       },
     },
   },
