@@ -213,9 +213,9 @@ const CS_3101 = [
     code: "20-06113",
     name: "Reaño, Kenneth Joshua O.",
     activities: {
-      website: {
-        link: "",
-        code: "",
+      website: { 
+        link: "https://gioshwua.github.io/",
+        code: "https://github.com/gioshwua/gioshwua.github.io",
       },
     },
   },
