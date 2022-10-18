@@ -104,8 +104,8 @@ const CS_3101 = [
     name: "Espinola I, Hubert F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://hubymeme22.github.io/",
+        code: "https://github.com/hubymeme22/hubymeme22.github.io",
       },
     },
   },
