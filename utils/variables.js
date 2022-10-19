@@ -2611,12 +2611,163 @@ const IT_3105 = [
 
 const IT_3106 = [
   {
+    code: "20-05324",
+    name: "Albo, Geliza Friadelle B.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-09838",
+    name: "Alday, Nicole Ann C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05353",
+    name: "Alvaira, Ruzel C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-01233",
+    name: "Antig, Emma P.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-09050",
+    name: "Araja, Christian Russell A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-03357",
+    name: "Atienza, Laurence R.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07774",
+    name: "Bauan, Jan Christian Alexis C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+
+  {
     code: "20-02942",
     name: "Borja, Jessther",
     activities: {
       website: {
         link: "https://jessther.github.io/personal-website/",
         code: "https://github.com/Jessther/personal-website.git",
+      },
+    },
+  },
+  {
+    code: "20-06318",
+    name: "Camporedondo, Zyryz Kyn A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00832",
+    name: "Camson, Mark Erril E.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-05098",
+    name: "Casabuena, Janelle Adriana B.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-01322",
+    name: "Casañas, Kyla E.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00818",
+    name: "Catapang, Jovet",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-02904",
+    name: "Catibog, Allysa Jane B.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-04757",
+    name: "Cating, Eunice Stephanie Claire S.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07250",
+    name: "Cueto, Fiona Wanda R.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
       },
     },
   },
@@ -2631,12 +2782,122 @@ const IT_3106 = [
     },
   },
   {
+    code: "20-08044",
+    name: "De Chavez, Zandro Lance B.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00872",
+    name: "De La Cruz, Steven G.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
     code: "20-06149",
     name: "Del Rosario, Vincent S.",
     activities: {
       website: {
         link: "https://centipido319.github.io/vincent-del-rosario/",
         code: "https://github.com/centipido319/vincent-del-rosario",
+      },
+    },
+  },
+  {
+    code: "20-00376",
+    name: "Dela Cruz, Patricia A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07206",
+    name: "Dela Luna, John Henricks S.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-03030",
+    name: "Din, Niña Marie I.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-08148",
+    name: "Encarnacion, Jasmin E.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-03704",
+    name: "Ermitanio, Edrien M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-01286",
+    name: "Famorcan, Jessa Mae F.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-08577",
+    name: "Furto, Adrielle Joy A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-00211",
+    name: "Labajo, Rhea Mari G.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07474",
+    name: "Llaga, Jimwell Lorenzo M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
       },
     },
   },
@@ -2651,6 +2912,36 @@ const IT_3106 = [
     },
   },
   {
+    code: "20-02697",
+    name: "Maderazo, Charlene E.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07501",
+    name: "Magsino Jr., Pablito M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-02203",
+    name: "Mendoza, Alexies Mae H.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
     code: "20-03364",
     name: "Mendoza, Shandra Mae",
     activities: {
@@ -2661,8 +2952,108 @@ const IT_3106 = [
     },
   },
   {
+    code: "20-00671",
+    name: "Pagsuyoin, Leandro A.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-02303",
+    name: "Pascua, Joan Marie M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-04917",
+    name: "Patrocinio, Jhosh Manuelle M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-08642",
+    name: "Pentinio, Angelo G.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-03942",
+    name: "Ramirez, Jhomari M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07472",
+    name: "Ramos, Jasmine M.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-08110",
+    name: "Rivarez, Nica P.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07208",
+    name: "Rivera, Karen Justin Elaine O.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-07436",
+    name: "Rivera, Rochelle C.",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
     code: "20-00631",
     name: "Tamayo, Rachel Anne",
+    activities: {
+      website: {
+        link: "",
+        code: "",
+      },
+    },
+  },
+  {
+    code: "20-01241",
+    name: "Verges, Patrisha F.",
     activities: {
       website: {
         link: "",
