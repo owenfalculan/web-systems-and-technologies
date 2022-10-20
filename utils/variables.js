@@ -800,8 +800,8 @@ const IT_3101 = [
     name: "Dionisio, Angelo B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://angeloxd13.github.io/angelodionisio_portfolio/",
+        code: "https://github.com/AngeloXD13/angelodionisio_portfolio",
       },
     },
   },
