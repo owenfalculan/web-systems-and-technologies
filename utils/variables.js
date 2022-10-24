@@ -2886,8 +2886,8 @@ const IT_3106 = [
     name: "Labajo, Rhea Mari G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://rmglcoder.github.io/rhea-labajo/",
+        code: "https://github.com/rmglcoder/rhea-labajo.git",
       },
     },
   },
