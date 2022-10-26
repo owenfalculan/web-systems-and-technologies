@@ -14,8 +14,8 @@ const CS_3101 = [
     name: "Agulo, Arnel D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "asdasdasdasdasdasdasdasdasd",
+        code: "asdasdasdasdasdasdasdasd",
       },
     },
   },
