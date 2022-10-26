@@ -3069,7 +3069,7 @@ const IT_3107 = [
     name: "Albero, Krizia Valerie Z.",
     activities: {
       website: {
-        link: " https://kriziavalerie.github.io/krizia-valerie/",
+        link: "https://kriziavalerie.github.io/krizia-valerie/",
         code: "https://github.com/kriziavalerie/krizia-valerie",
       },
     },
