@@ -2876,8 +2876,8 @@ const IT_3106 = [
     name: "Furto, Adrielle Joy A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://adriellej.github.io/adrielle-furto/",
+        code: "https://github.com/adriellej/adrielle-furto.git",
       },
     },
   },
