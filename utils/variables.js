@@ -3026,8 +3026,8 @@ const IT_3106 = [
     name: "Rivera, Karen Justin Elaine O.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jusss21.github.io/KarenRivera_Portfolio/",
+        code: "https://github.com/jusss21/KarenRivera_Portfolio",
       },
     },
   },
