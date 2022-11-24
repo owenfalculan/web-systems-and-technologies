@@ -34,8 +34,8 @@ const CS_3101 = [
     name: "Amboy, Niño Andrey H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://amboy13.github.io/Portfolio/",
+        code: "https://github.com/Amboy13/Portfolio.git",
       },
     },
   },
