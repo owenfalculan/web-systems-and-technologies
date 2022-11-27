@@ -2896,8 +2896,8 @@ const IT_3106 = [
     name: "Llaga, Jimwell Lorenzo M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://yimwelorenzo.github.io/yimwel/",
+        code: "https://github.com/yimwelorenzo/yimwel",
       },
     },
   },
