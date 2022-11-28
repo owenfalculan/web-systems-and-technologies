@@ -581,8 +581,8 @@ const IT_3104 = [
     name: "Arcega, Glenn Emerson P.",
     activities: {
       website: {
-        link: "https://glennarcega.github.io/Glennarcega17/",
-        code: "https://github.com/Glennarcega/Glennarcega17.git",
+        link: "https://glennarcega.github.io/glennarcega/",
+        code: "https://github.com/Glennarcega/glennarcega",
       },
       calculator: {
         link: "",
