@@ -1,6 +1,6 @@
 <template>
   <section>
-    <section class="my-5">
+    <section class="my-3">
       <h3>Notes</h3>
       <section class="my-4">
         <h5 class="my-3">Contents</h5>
