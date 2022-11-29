@@ -507,8 +507,8 @@ const CS_3102 = [
     name: "Magboo, Lady Carina B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://LadyCarinaMagboo.github.io/lady-carina-magboo/",
+        code: "https://github.com/LadyCarinaMagboo/lady-carina-magboo",
       },
     },
   },
