@@ -2916,8 +2916,8 @@ const IT_3106 = [
     name: "Maderazo, Charlene E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://maderazocharlene.github.io/personalwebsites/",
+        code: "https://github.com/maderazocharlene/personalwebsites",
       },
     },
   },
