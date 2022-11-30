@@ -2986,8 +2986,8 @@ const IT_3106 = [
     name: "Pentinio, Angelo G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://angelopentinio.github.io/personalwebsite/",
+        code: "https://github.com/Angelopentinio/personalwebsite",
       },
     },
   },
