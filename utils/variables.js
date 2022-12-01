@@ -164,8 +164,8 @@ const CS_3101 = [
     name: "Malibiran, Darren S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://darren-sm.github.io/",
+        code: "https://github.com/darren-sm/darren-sm.github.io",
       },
     },
   },
