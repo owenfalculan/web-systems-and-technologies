@@ -2625,8 +2625,8 @@ const IT_3106 = [
     name: "Alday, Nicole Ann C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://nicolealday20.github.io/portfolio/",
+        code: "https://github.com/NicoleAlday20/portfolio",
       },
     },
   },
