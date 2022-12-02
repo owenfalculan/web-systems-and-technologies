@@ -3016,8 +3016,8 @@ const IT_3106 = [
     name: "Rivarez, Nica P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://rivnicpal13.github.io/ImNica/",
+        code: "https://github.com/rivnicpal13/ImNica",
       },
     },
   },
