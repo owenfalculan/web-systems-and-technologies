@@ -610,8 +610,8 @@ const IT_3101 = [
     name: "Abarquez, Mary Antonette Z.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mazabarquez.github.io/Personal-Website/",
+        code: "https://github.com/mazabarquez/Personal-Website",
       },
     },
   },
