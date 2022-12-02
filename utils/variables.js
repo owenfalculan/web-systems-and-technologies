@@ -2866,8 +2866,8 @@ const IT_3106 = [
     name: "Famorcan, Jessa Mae F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jemaefam16.github.io/jessamae_famorcan/",
+        code: "https://github.com/jemaefam16/jessamae_famorcan",
       },
     },
   },
