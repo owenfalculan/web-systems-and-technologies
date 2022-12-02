@@ -2756,8 +2756,8 @@ const IT_3106 = [
     name: "Cating, Eunice Stephanie Claire S.",
     activities: {
       website: {
-        link: "https://eunicecating.github.io/Eunice-Stephanie-Claire/",
-        code: "https://github.com/EuniceCating/Eunice-Stephanie-Claire",
+        link: "https://eunicecating.github.io/Eunice-Portfolio/#default",
+        code: "https://github.com/EuniceCating/Eunice-Portfolio",
       },
     },
   },
