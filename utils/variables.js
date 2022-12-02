@@ -2675,8 +2675,8 @@ const IT_3106 = [
     name: "Bauan, Jan Christian Alexis C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://axisch.github.io/JanChristianAlexisBauan-Portfolio/",
+        code: "https://github.com/axisch/JanChristianAlexisBauan-Portfolio",
       },
     },
   },
