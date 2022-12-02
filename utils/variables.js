@@ -3046,8 +3046,8 @@ const IT_3106 = [
     name: "Tamayo, Rachel Anne",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://racheltamayo.github.io/rachel-profile/",
+        code: "https://github.com/racheltamayo/rachel-profile",
       },
     },
   },
