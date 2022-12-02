@@ -3056,8 +3056,8 @@ const IT_3106 = [
     name: "Verges, Patrisha F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://20patrisha.github.io/Verges-Portfolio/",
+        code: "https://github.com/20patrisha/Verges-Portfolio",
       },
     },
   },
