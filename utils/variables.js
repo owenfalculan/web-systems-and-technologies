@@ -2786,8 +2786,8 @@ const IT_3106 = [
     name: "De Chavez, Zandro Lance B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://lansilver.github.io/zandrolance_dechavez/",
+        code: "https://github.com/Lansilver/zandrolance_dechavez",
       },
     },
   },
