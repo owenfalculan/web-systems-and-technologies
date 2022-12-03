@@ -2665,8 +2665,8 @@ const IT_3106 = [
     name: "Atienza, Laurence R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://laurenceatienza.github.io/Laurence-Atienza/",
+        code: "https://github.com/Laurenceatienza/Laurence-Atienza",
       },
     },
   },
