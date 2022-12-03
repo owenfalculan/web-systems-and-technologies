@@ -2645,8 +2645,8 @@ const IT_3106 = [
     name: "Antig, Emma P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://emma16antig.github.io/emma_antig/",
+        code: "https://github.com/Emma16Antig/emma_antig",
       },
     },
   },
