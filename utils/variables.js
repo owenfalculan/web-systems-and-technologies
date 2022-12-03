@@ -284,8 +284,8 @@ const CS_3101 = [
     name: "Valdez, Dominic Miko G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dominic0115.github.io/",
+        code: "https://github.com/Dominic0115/Dominic0115.github.io",
       },
     },
   },
