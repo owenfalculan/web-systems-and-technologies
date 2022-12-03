@@ -3036,8 +3036,8 @@ const IT_3106 = [
     name: "Rivera, Rochelle C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://rochelle10.github.io/Rochelle-Rivera/",
+        code: "https://github.com/rochelle10/Rochelle-Rivera",
       },
     },
   },
