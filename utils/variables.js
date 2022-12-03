@@ -2936,8 +2936,8 @@ const IT_3106 = [
     name: "Mendoza, Alexies Mae H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://exiemae.github.io/Mendoza-Alexies/",
+        code: "https://github.com/exiemae/Mendoza-Alexies",
       },
     },
   },
