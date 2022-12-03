@@ -144,8 +144,8 @@ const CS_3101 = [
     name: "Laqui, Jamie Rose M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jamie204.github.io/",
+        code: "https://github.com/Jamie204/Jamie204.github.io",
       },
     },
   },
