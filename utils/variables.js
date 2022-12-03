@@ -2726,8 +2726,8 @@ const IT_3106 = [
     name: "Casañas, Kyla E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kylacasanas.github.io/Casanas/",
+        code: "https://github.com/KylaCasanas/Casanas",
       },
     },
   },
