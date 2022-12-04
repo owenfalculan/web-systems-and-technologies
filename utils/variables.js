@@ -2635,8 +2635,8 @@ const IT_3106 = [
     name: "Alvaira, Ruzel C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://rzllvr.github.io/ruzelalvaira_profile/",
+        code: "https://github.com/rzllvr/ruzelalvaira_profile",
       },
     },
   },
