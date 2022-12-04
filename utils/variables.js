@@ -2836,8 +2836,8 @@ const IT_3106 = [
     name: "Din, Niña Marie I.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ninamar1e.github.io/nina-portfolio/",
+        code: "https://github.com/ninamar1e/nina-portfolio",
       },
     },
   },
