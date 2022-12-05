@@ -2706,8 +2706,8 @@ const IT_3106 = [
     name: "Camson, Mark Erril E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://markerril.github.io/Markerril-portfolio/",
+        code: "https://github.com/Markerril/Markerril-portfolio",
       },
     },
   },
