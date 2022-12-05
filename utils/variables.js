@@ -2655,8 +2655,8 @@ const IT_3106 = [
     name: "Araja, Christian Russell A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://bossmapagmahal.github.io/russell_araja/",
+        code: "https://github.com/bossmapagmahal/russell_araja",
       },
     },
   },
