@@ -194,8 +194,8 @@ const CS_3101 = [
     name: "Marundan, Marc Francis D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://pajeee.github.io/Portfolio/",
+        code: "https://github.com/Pajeee/Portfolio.git",
       },
     },
   },
