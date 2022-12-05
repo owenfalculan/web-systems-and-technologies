@@ -84,8 +84,8 @@ const CS_3101 = [
     name: "Cuartero, Tristan Jorge",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://krazytristan.github.io/porfolio/",
+        code: "https://github.com/krazytristan/porfolio",
       },
     },
   },
