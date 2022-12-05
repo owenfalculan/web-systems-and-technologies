@@ -144,8 +144,8 @@ const CS_3101 = [
     name: "Laqui, Jamie Rose M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jamie204.github.io/",
+        code: "https://github.com/Jamie204/Jamie204.github.io",
       },
     },
   },
@@ -164,8 +164,8 @@ const CS_3101 = [
     name: "Malibiran, Darren S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://darren-sm.github.io/",
+        code: "https://github.com/darren-sm/darren-sm.github.io",
       },
     },
   },
@@ -194,8 +194,8 @@ const CS_3101 = [
     name: "Marundan, Marc Francis D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://pajeee.github.io/Portfolio/",
+        code: "https://github.com/Pajeee/Portfolio.git",
       },
     },
   },
@@ -284,8 +284,8 @@ const CS_3101 = [
     name: "Valdez, Dominic Miko G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dominic0115.github.io/",
+        code: "https://github.com/Dominic0115/Dominic0115.github.io",
       },
     },
   },
@@ -610,8 +610,8 @@ const IT_3101 = [
     name: "Abarquez, Mary Antonette Z.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mazabarquez.github.io/Personal-Website/",
+        code: "https://github.com/mazabarquez/Personal-Website",
       },
     },
   },
@@ -2625,8 +2625,8 @@ const IT_3106 = [
     name: "Alday, Nicole Ann C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://nicolealday20.github.io/portfolio/",
+        code: "https://github.com/NicoleAlday20/portfolio",
       },
     },
   },
@@ -2635,8 +2635,8 @@ const IT_3106 = [
     name: "Alvaira, Ruzel C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://rzllvr.github.io/ruzelalvaira_profile/",
+        code: "https://github.com/rzllvr/ruzelalvaira_profile",
       },
     },
   },
@@ -2645,8 +2645,8 @@ const IT_3106 = [
     name: "Antig, Emma P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://emma16antig.github.io/emma_antig/",
+        code: "https://github.com/Emma16Antig/emma_antig",
       },
     },
   },
@@ -2655,8 +2655,8 @@ const IT_3106 = [
     name: "Araja, Christian Russell A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://bossmapagmahal.github.io/russell_araja/",
+        code: "https://github.com/bossmapagmahal/russell_araja",
       },
     },
   },
@@ -2665,8 +2665,8 @@ const IT_3106 = [
     name: "Atienza, Laurence R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://laurenceatienza.github.io/Laurence-Atienza/",
+        code: "https://github.com/Laurenceatienza/Laurence-Atienza",
       },
     },
   },
@@ -2675,8 +2675,8 @@ const IT_3106 = [
     name: "Bauan, Jan Christian Alexis C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://axisch.github.io/JanChristianAlexisBauan-Portfolio/",
+        code: "https://github.com/axisch/JanChristianAlexisBauan-Portfolio",
       },
     },
   },
@@ -2706,8 +2706,8 @@ const IT_3106 = [
     name: "Camson, Mark Erril E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://markerril.github.io/Markerril-portfolio/",
+        code: "https://github.com/Markerril/Markerril-portfolio",
       },
     },
   },
@@ -2726,8 +2726,8 @@ const IT_3106 = [
     name: "Casañas, Kyla E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kylacasanas.github.io/Casanas/",
+        code: "https://github.com/KylaCasanas/Casanas",
       },
     },
   },
@@ -2756,8 +2756,8 @@ const IT_3106 = [
     name: "Cating, Eunice Stephanie Claire S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://eunicecating.github.io/Eunice-Portfolio/#default",
+        code: "https://github.com/EuniceCating/Eunice-Portfolio",
       },
     },
   },
@@ -2786,8 +2786,8 @@ const IT_3106 = [
     name: "De Chavez, Zandro Lance B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://lansilver.github.io/zandrolance_dechavez/",
+        code: "https://github.com/Lansilver/zandrolance_dechavez",
       },
     },
   },
@@ -2836,8 +2836,8 @@ const IT_3106 = [
     name: "Din, Niña Marie I.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ninamar1e.github.io/nina-portfolio/",
+        code: "https://github.com/ninamar1e/nina-portfolio",
       },
     },
   },
@@ -2866,8 +2866,8 @@ const IT_3106 = [
     name: "Famorcan, Jessa Mae F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jemaefam16.github.io/jessamae_famorcan/",
+        code: "https://github.com/jemaefam16/jessamae_famorcan",
       },
     },
   },
@@ -2936,8 +2936,8 @@ const IT_3106 = [
     name: "Mendoza, Alexies Mae H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://exiemae.github.io/Mendoza-Alexies/",
+        code: "https://github.com/exiemae/Mendoza-Alexies",
       },
     },
   },
@@ -3016,8 +3016,8 @@ const IT_3106 = [
     name: "Rivarez, Nica P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://rivnicpal13.github.io/ImNica/",
+        code: "https://github.com/rivnicpal13/ImNica",
       },
     },
   },
@@ -3036,8 +3036,8 @@ const IT_3106 = [
     name: "Rivera, Rochelle C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://rochelle10.github.io/Rochelle-Rivera/",
+        code: "https://github.com/rochelle10/Rochelle-Rivera",
       },
     },
   },
@@ -3046,8 +3046,8 @@ const IT_3106 = [
     name: "Tamayo, Rachel Anne",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://racheltamayo.github.io/rachel_tamayo/",
+        code: "https://github.com/racheltamayo/rachel_tamayo",
       },
     },
   },
@@ -3056,8 +3056,8 @@ const IT_3106 = [
     name: "Verges, Patrisha F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://20patrisha.github.io/Verges-Portfolio/",
+        code: "https://github.com/20patrisha/Verges-Portfolio",
       },
     },
   },
