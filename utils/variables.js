@@ -274,8 +274,8 @@ const CS_3101 = [
     name: "Tecson, Kairus Noah E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://schadenkai.github.io/",
+        code: "https://github.com/SchadenKai/schadenkai.github.io",
       },
     },
   },
