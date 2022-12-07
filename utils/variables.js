@@ -517,8 +517,8 @@ const CS_3102 = [
     name: "Mendoza, Patrick James C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://patarbods.github.io/",
+        code: "https://github.com/PATARBODS/PATARBODS.github.io",
       },
     },
   },
