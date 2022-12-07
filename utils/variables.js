@@ -2796,8 +2796,8 @@ const IT_3106 = [
     name: "De La Cruz, Steven G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://stevlax.github.io/personal-profile-website_de-la-cruz/",
+        code: "https://github.com/stevlax/personal-profile-website_de-la-cruz",
       },
     },
   },
