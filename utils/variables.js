@@ -2766,8 +2766,8 @@ const IT_3106 = [
     name: "Cueto, Fiona Wanda R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://fionawanda.github.io/personal-website/",
+        code: "https://github.com/FionaWanda/personal-website",
       },
     },
   },
