@@ -2826,8 +2826,8 @@ const IT_3106 = [
     name: "Dela Luna, John Henricks S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johnhenricks.github.io/Henricks_profile/",
+        code: "https://github.com/johnhenricks/Henricks_profile",
       },
     },
   },
