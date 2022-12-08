@@ -537,8 +537,8 @@ const CS_3102 = [
     name: "Santiago, Angelo Gener V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://angelohelloworld.github.io/",
+        code: "https://github.com/angelohelloworld/angelohelloworld.github.io",
       },
     },
   },
