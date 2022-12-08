@@ -54,8 +54,8 @@ const CS_3101 = [
     name: "Cantos, Len Aubrey Z.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://aubreycantos.github.io/",
+        code: "https://github.com/aubreycantos/aubreycantos.github.io.git",
       },
     },
   },
