@@ -124,8 +124,8 @@ const CS_3101 = [
     name: "Gomez, John Luis D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://lowestt.github.io/myPfolyozh/",
+        code: "https://github.com/Lowestt/myPfolyozh.git",
       },
     },
   },
