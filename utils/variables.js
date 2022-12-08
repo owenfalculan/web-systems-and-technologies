@@ -367,8 +367,8 @@ const CS_3102 = [
     name: "Dimaculangan, Josh Ryan S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://foxjayour.github.io/josh-dimaculangan/",
+        code: "https://github.com/FoxJayOur/josh-dimaculangan",
       },
     },
   },
