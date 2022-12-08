@@ -538,7 +538,7 @@ const CS_3102 = [
     activities: {
       website: {
         link: "https://angelohelloworld.github.io/",
-        code: "https://github.com/angelohelloworld/angelhelloworld.github.io",
+        code: "https://github.com/angelohelloworld/angelohelloworld.github.io",
       },
     },
   },
