@@ -74,8 +74,8 @@ const CS_3101 = [
     name: "Clemente, Joshua F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://haaakdog.github.io/ProfileNiHakdog/",
+        code: "https://github.com/HaaakDog/ProfileNiHakdog",
       },
     },
   },
