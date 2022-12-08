@@ -2976,8 +2976,8 @@ const IT_3106 = [
     name: "Patrocinio, Jhosh Manuelle M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jhoshp.github.io/portfolio/",
+        code: "https://github.com/JhoshP/portfolio",
       },
     },
   },
