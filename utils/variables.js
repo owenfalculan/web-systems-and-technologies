@@ -2846,8 +2846,8 @@ const IT_3106 = [
     name: "Encarnacion, Jasmin E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jarsssy.github.io/Personal-Website/",
+        code: "https://github.com/jarsssy/Personal-Website",
       },
     },
   },
