@@ -527,8 +527,8 @@ const CS_3102 = [
     name: "Ortega, Giorevh Mcjude V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jhimaque.github.io/",
+        code: "https://github.com/Jhimaque/jhimaque.github.io",
       },
     },
   },
