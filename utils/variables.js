@@ -2926,8 +2926,8 @@ const IT_3106 = [
     name: "Magsino Jr., Pablito M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://philipscrewwww.github.io/Personal-Website/",
+        code: "https://github.com/philipscrewwww/Personal-Website",
       },
     },
   },
