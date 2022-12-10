@@ -224,8 +224,8 @@ const CS_3101 = [
     name: "Salazar, Dhames Aryel M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dhamesaryel.github.io/webportfolio/",
+        code: "https://github.com/DhamesAryel/webportfolio",
       },
     },
   },
