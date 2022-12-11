@@ -184,8 +184,8 @@ const CS_3101 = [
     name: "Mandigma, Paul Vincent A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://polbenzene.github.io/profile/",
+        code: "https://github.com/polbenzene/profile.git",
       },
     },
   },
