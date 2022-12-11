@@ -14,8 +14,8 @@ const CS_3101 = [
     name: "Agulo, Arnel D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://xeno-0901.github.io/Agulo-Portfolio/",
+        code: "https://github.com/XenO-0901/Agulo-Portfolio",
       },
     },
   },
@@ -154,8 +154,8 @@ const CS_3101 = [
     name: "Magadia, Alliyah Aina C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://alliyahaina.github.io/",
+        code: "https://github.com/AlliyahAina/AlliyahAina.github.io",
       },
     },
   },
@@ -184,8 +184,8 @@ const CS_3101 = [
     name: "Mandigma, Paul Vincent A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://polbenzene.github.io/profile/",
+        code: "https://github.com/polbenzene/profile.git",
       },
     },
   },
@@ -2696,8 +2696,8 @@ const IT_3106 = [
     name: "Camporedondo, Zyryz Kyn A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://zyryzkyn.github.io/zyryzkyn_profile/",
+        code: "https://github.com/zyryzkyn/zyryzkyn_profile",
       },
     },
   },
@@ -2716,8 +2716,8 @@ const IT_3106 = [
     name: "Casabuena, Janelle Adriana B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://janelleadriana.github.io/Personal-Website/",
+        code: "https://github.com/janelleadriana/Personal-Website",
       },
     },
   },
@@ -3006,8 +3006,8 @@ const IT_3106 = [
     name: "Ramos, Jasmine M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jasxrms.github.io/Personal-Website/",
+        code: "https://github.com/jasxrms/Personal-Website",
       },
     },
   },
