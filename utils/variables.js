@@ -54,8 +54,8 @@ const CS_3101 = [
     name: "Cantos, Len Aubrey Z.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://aubreycantos.github.io/",
+        code: "https://github.com/aubreycantos/aubreycantos.github.io.git",
       },
     },
   },
@@ -74,8 +74,8 @@ const CS_3101 = [
     name: "Clemente, Joshua F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://haaakdog.github.io/ProfileNiHakdog/",
+        code: "https://github.com/HaaakDog/ProfileNiHakdog",
       },
     },
   },
@@ -124,8 +124,8 @@ const CS_3101 = [
     name: "Gomez, John Luis D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://lowestt.github.io/myPfolyozh/",
+        code: "https://github.com/Lowestt/myPfolyozh.git",
       },
     },
   },
@@ -224,8 +224,8 @@ const CS_3101 = [
     name: "Salazar, Dhames Aryel M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dhamesaryel.github.io/webportfolio/",
+        code: "https://github.com/DhamesAryel/webportfolio",
       },
     },
   },
@@ -274,8 +274,8 @@ const CS_3101 = [
     name: "Tecson, Kairus Noah E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://schadenkai.github.io/",
+        code: "https://github.com/SchadenKai/schadenkai.github.io",
       },
     },
   },
@@ -317,8 +317,8 @@ const CS_3102 = [
     name: "Cabatic, Bryan Andrei L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://yanraze.github.io/Portfolio/",
+        code: "https://github.com/yanraze/Portfolio",
       },
     },
   },
@@ -357,8 +357,8 @@ const CS_3102 = [
     name: "Dela Cruz, Christine Valerie M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://baliiee.github.io/DelaCruz-WebPortfolio/",
+        code: "https://github.com/Baliiee/DelaCruz-WebPortfolio.git",
       },
     },
   },
@@ -367,8 +367,8 @@ const CS_3102 = [
     name: "Dimaculangan, Josh Ryan S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://foxjayour.github.io/josh-dimaculangan/",
+        code: "https://github.com/FoxJayOur/josh-dimaculangan",
       },
     },
   },
@@ -517,8 +517,8 @@ const CS_3102 = [
     name: "Mendoza, Patrick James C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://patarbods.github.io/",
+        code: "https://github.com/PATARBODS/PATARBODS.github.io",
       },
     },
   },
@@ -527,8 +527,8 @@ const CS_3102 = [
     name: "Ortega, Giorevh Mcjude V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jhimaque.github.io/",
+        code: "https://github.com/Jhimaque/jhimaque.github.io",
       },
     },
   },
@@ -537,8 +537,8 @@ const CS_3102 = [
     name: "Santiago, Angelo Gener V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://angelohelloworld.github.io/",
+        code: "https://github.com/angelohelloworld/angelohelloworld.github.io",
       },
     },
   },
@@ -2746,8 +2746,8 @@ const IT_3106 = [
     name: "Catibog, Allysa Jane B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://alexxxies.github.io/personal-website/",
+        code: "https://github.com/Alexxxies/personal-website",
       },
     },
   },
@@ -2766,8 +2766,8 @@ const IT_3106 = [
     name: "Cueto, Fiona Wanda R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://fionawanda.github.io/personal-website/",
+        code: "https://github.com/FionaWanda/personal-website",
       },
     },
   },
@@ -2796,8 +2796,8 @@ const IT_3106 = [
     name: "De La Cruz, Steven G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://stevlax.github.io/personal-profile-website_de-la-cruz/",
+        code: "https://github.com/stevlax/personal-profile-website_de-la-cruz",
       },
     },
   },
@@ -2826,8 +2826,8 @@ const IT_3106 = [
     name: "Dela Luna, John Henricks S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johnhenricks.github.io/Henricks_profile/",
+        code: "https://github.com/johnhenricks/Henricks_profile",
       },
     },
   },
@@ -2846,8 +2846,8 @@ const IT_3106 = [
     name: "Encarnacion, Jasmin E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jarsssy.github.io/Personal-Website/",
+        code: "https://github.com/jarsssy/Personal-Website",
       },
     },
   },
@@ -2926,8 +2926,8 @@ const IT_3106 = [
     name: "Magsino Jr., Pablito M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://philipscrewwww.github.io/Personal-Website/",
+        code: "https://github.com/philipscrewwww/Personal-Website",
       },
     },
   },
@@ -2976,8 +2976,8 @@ const IT_3106 = [
     name: "Patrocinio, Jhosh Manuelle M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jhoshp.github.io/portfolio/",
+        code: "https://github.com/JhoshP/portfolio",
       },
     },
   },
