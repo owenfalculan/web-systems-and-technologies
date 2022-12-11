@@ -14,8 +14,8 @@ const CS_3101 = [
     name: "Agulo, Arnel D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://xeno-0901.github.io/Agulo-Portfolio/",
+        code: "https://github.com/XenO-0901/Agulo-Portfolio",
       },
     },
   },
