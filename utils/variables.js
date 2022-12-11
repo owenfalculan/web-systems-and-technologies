@@ -467,8 +467,8 @@ const CS_3102 = [
     name: "Jose, Hannah Rose C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://nqhwet.github.io/",
+        code: "https://github.com/nqhwet/nqhwet.github.io",
       },
     },
   },
