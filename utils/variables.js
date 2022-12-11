@@ -2696,8 +2696,8 @@ const IT_3106 = [
     name: "Camporedondo, Zyryz Kyn A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://zyryzkyn.github.io/zyryzkyn_profile/",
+        code: "https://github.com/zyryzkyn/zyryzkyn_profile",
       },
     },
   },
