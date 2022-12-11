@@ -317,8 +317,8 @@ const CS_3102 = [
     name: "Cabatic, Bryan Andrei L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://yanraze.github.io/Portfolio/",
+        code: "https://github.com/yanraze/Portfolio",
       },
     },
   },
