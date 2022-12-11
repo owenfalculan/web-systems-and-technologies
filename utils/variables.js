@@ -2716,8 +2716,8 @@ const IT_3106 = [
     name: "Casabuena, Janelle Adriana B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://janelleadriana.github.io/Personal-Website/",
+        code: "https://github.com/janelleadriana/Personal-Website",
       },
     },
   },
