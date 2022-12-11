@@ -477,8 +477,8 @@ const CS_3102 = [
     name: "Lugatic, Marienne Isabelle D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://NiyenGreen.github.io/marienne-lugatic/",
+        code: "https://github.com/NiyenGreen/NiyenGreen",
       },
     },
   },
