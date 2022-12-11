@@ -357,8 +357,8 @@ const CS_3102 = [
     name: "Dela Cruz, Christine Valerie M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://baliiee.github.io/DelaCruz-WebPortfolio/",
+        code: "https://github.com/Baliiee/DelaCruz-WebPortfolio.git",
       },
     },
   },
