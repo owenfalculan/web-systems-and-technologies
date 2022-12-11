@@ -154,8 +154,8 @@ const CS_3101 = [
     name: "Magadia, Alliyah Aina C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://alliyahaina.github.io/",
+        code: "https://github.com/AlliyahAina/AlliyahAina.github.io",
       },
     },
   },
