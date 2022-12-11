@@ -134,8 +134,8 @@ const CS_3101 = [
     name: "Lagamon, Miguel Enrico B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://20-05379.github.io/20-05379---repo/",
+        code: "https://github.com/20-05379/20-05379---repo",
       },
     },
   },
