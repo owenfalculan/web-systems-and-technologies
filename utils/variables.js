@@ -2746,8 +2746,8 @@ const IT_3106 = [
     name: "Catibog, Allysa Jane B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://alexxxies.github.io/personal-website/",
+        code: "https://github.com/Alexxxies/personal-website",
       },
     },
   },
