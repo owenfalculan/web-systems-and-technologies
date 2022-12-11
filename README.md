@@ -1,7 +1,19 @@
-## Web Systems and Technologies Repository
+# Web Systems and Technologies Repository
 
-<br>
+## Easy method using Github Desktop
+### Requirements
 
+#### 1.Github Desktop
+- Download Github Desktop [here](https://desktop.github.com/).
+#### 2. Github
+Create a GitHub Account and add your username here. You will be invited as a collaborator in this repository.
+
+### Tutorial
+Youtube Link [here](https://youtu.be/xLkhNVCnz-c).
+
+<br> 
+
+## Manual Method using Git
 ### Requirements
 
 #### 1. Git
