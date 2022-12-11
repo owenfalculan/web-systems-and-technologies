@@ -347,8 +347,8 @@ const CS_3102 = [
     name: "Del Mundo, Ron Iverson S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://lythea.github.io/",
+        code: "https://github.com/Lythea/lythea.github.io",
       },
     },
   },
