@@ -447,8 +447,8 @@ const CS_3102 = [
     name: "Hombre, Lloyd Jerome M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://voidsq.github.io/",
+        code: "https://github.com/VOIDsq/VOIDsq.github.io.git",
       },
     },
   },
