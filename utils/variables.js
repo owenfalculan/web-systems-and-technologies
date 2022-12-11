@@ -3006,8 +3006,8 @@ const IT_3106 = [
     name: "Ramos, Jasmine M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jasxrms.github.io/Personal-Website/",
+        code: "https://github.com/jasxrms/Personal-Website",
       },
     },
   },
