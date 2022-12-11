@@ -417,8 +417,8 @@ const CS_3102 = [
     name: "Gutierrez, Rommel C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://rommelgutierrez.github.io/",
+        code: "https://github.com/rommelgutierrez/rommelgutierrez.github.io.git",
       },
     },
   },
