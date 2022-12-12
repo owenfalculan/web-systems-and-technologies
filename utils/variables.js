@@ -487,8 +487,8 @@ const CS_3102 = [
     name: "Maac, Mikaela C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mixmsoda.github.io/",
+        code: "https://github.com/mixMsoda/mixMsoda.github.io.git",
       },
     },
   },
