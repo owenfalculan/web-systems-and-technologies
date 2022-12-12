@@ -64,8 +64,8 @@ const CS_3101 = [
     name: "Carurucan, John Mikko B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://okkimaze.github.io/portfolio-mikko/",
+        code: "https://github.com/Okkimaze/portfolio-mikko.git",
       },
     },
   },
