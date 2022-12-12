@@ -327,8 +327,8 @@ const CS_3102 = [
     name: "Casapao, Sherine V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://wachicode.github.io/personalweb/",
+        code: "https://github.com/wachicode/personalweb",
       },
     },
   },
