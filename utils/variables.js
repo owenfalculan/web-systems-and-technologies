@@ -307,8 +307,8 @@ const CS_3102 = [
     name: "Bagos, Kyle Andrei D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kai13a.github.io/kyle-bagos/",
+        code: "https://github.com/Kai13a/kyle-bagos.git",
       },
     },
   },
