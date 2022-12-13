@@ -567,8 +567,8 @@ const CS_3102 = [
     name: "Velasco, Maria Daniela D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mariadanielavelasco.github.io/",
+        code: "https://github.com/MariaDanielaVelasco/mariadanielavelasco.github.io",
       },
     },
   },
