@@ -254,8 +254,8 @@ const CS_3101 = [
     name: "Sealquil, Niño A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ownins.github.io/",
+        code: "https://github.com/Ownins/ownins.github.io.git",
       },
     },
   },
