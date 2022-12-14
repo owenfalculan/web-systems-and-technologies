@@ -264,8 +264,8 @@ const CS_3101 = [
     name: "Simbiray, Glen A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://gi-len.github.io/",
+        code: "https://github.com/gi-len/gi-len.github.io",
       },
     },
   },
