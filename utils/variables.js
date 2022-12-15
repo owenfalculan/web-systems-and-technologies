@@ -3086,11 +3086,11 @@ const IT_3107 = [
   },
   {
     code: "20-09116",
-    name: "Lazara, Darwin",
+    name: "Lazaro, Darwin Laicko B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://Dllzro.github.io/dllzro-website",
+        code: "https://github.com/Dllzro/dllzro-website",
       },
     },
   },
