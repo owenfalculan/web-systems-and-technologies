@@ -860,8 +860,8 @@ const IT_3101 = [
     name: "Guban, Jasmil Rose L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jasgubs.github.io/JasmilRose/",
+        code: "https://github.com/JasGubs/JasmilRose",
       },
     },
   },
