@@ -204,8 +204,8 @@ const CS_3101 = [
     name: "Militante, Zyrah",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://cierrasoleil.github.io/zyrah-militante/",
+        code: "https://github.com/cierrasoleil/zyrah-militante.git",
       },
     },
   },
