@@ -44,8 +44,8 @@ const CS_3101 = [
     name: "Balason, Shekyna S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://shekynab.github.io/personal_web/",
+        code: "https://github.com/shekynab/personal_web.git",
       },
     },
   },
