@@ -587,8 +587,8 @@ const CS_3102 = [
     name: "Villota, Jan Ella T.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://e11av.github.io/",
+        code: "https://github.com/e11av/e11av.github.io.git",
       },
     },
   },
