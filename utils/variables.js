@@ -377,8 +377,8 @@ const CS_3102 = [
     name: "Ebora, Dianne H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ebrdh1.github.io/personalweb/",
+        code: "https://github.com/ebrdh1/personalweb",
       },
     },
   },
