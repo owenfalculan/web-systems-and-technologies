@@ -1030,8 +1030,8 @@ const IT_3101 = [
     name: "Rolloque, Ken Mark L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kenrolloque.github.io/kurosaki14.github.io/",
+        code: "https://github.com/KenRolloque/kurosaki14.github.io",
       },
     },
   },
