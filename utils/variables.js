@@ -920,8 +920,8 @@ const IT_3101 = [
     name: "Martinez, Ken T.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://knyer.github.io/kenportf.github.io/",
+        code: "https://github.com/KNYER/kenportf.github.io.git",
       },
     },
   },
