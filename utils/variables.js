@@ -1143,8 +1143,8 @@ const IT_3102 = [
     name: "Cortino, Ruth Anne O.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://github.com/Ruthayyyyy/Ruthyy.github.io.git",
+        code: "https://ruthayyyyy.github.io/Ruthyy.github.io/",
       },
     },
   },
