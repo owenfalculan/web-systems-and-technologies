@@ -1223,8 +1223,8 @@ const IT_3102 = [
     name: "Lopez, Stephanie F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://steph685.github.io/StephanieLopez/",
+        code: "https://github.com/Steph685/StephanieLopez.git",
       },
     },
   },
