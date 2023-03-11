@@ -1243,8 +1243,8 @@ const IT_3102 = [
     name: "Magbuhos, Lyka Alessandra B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://lykaalessandra.github.io/magbuhos/",
+        code: "https://github.com/LykaAlessandra/magbuhos",
       },
     },
   },
