@@ -960,8 +960,8 @@ const IT_3101 = [
     name: "Panganiban, Kim Zedrick B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://zeddy16.github.io/",
+        code: "https://github.com/Zeddy16/Zeddy16.github.io.git",
       },
     },
   },
