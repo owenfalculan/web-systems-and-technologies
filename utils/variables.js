@@ -940,8 +940,8 @@ const IT_3101 = [
     name: "Miranda, Dennice Gabrielle A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://gabbi-chin.github.io/gabbi-miranda/",
+        code: "https://github.com/gabbi-chin/gabbi-miranda",
       },
     },
   },
