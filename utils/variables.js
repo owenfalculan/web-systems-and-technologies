@@ -1153,8 +1153,8 @@ const IT_3102 = [
     name: "Dantes, Earvin James M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ervnjmsdnts.vercel.app/,
+        code: "https://github.com/ervnjmsdnts/portfolio",
       },
     },
   },
