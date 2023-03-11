@@ -1343,8 +1343,8 @@ const IT_3102 = [
     name: "Plata, Bienmar V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mrviking01.github.io/profile-porforlio/",
+        code: "https://github.com/mrViking01/profile-porforlio.git",
       },
     },
   },
