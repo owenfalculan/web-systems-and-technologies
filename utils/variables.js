@@ -930,8 +930,8 @@ const IT_3101 = [
     name: "Miñano, Jeann Marie C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://minanojeann.github.io/website/",
+        code: "https://github.com/MinanoJeann/website",
       },
     },
   },
