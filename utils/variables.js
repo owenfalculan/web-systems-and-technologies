@@ -870,8 +870,8 @@ const IT_3101 = [
     name: "Herilla, Dimple S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dimple5s.github.io/Personal-Portfolio/",
+        code: "https://github.com/Dimple5s/Personal-Portfolio",
       },
     },
   },
