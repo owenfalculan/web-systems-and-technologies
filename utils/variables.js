@@ -910,8 +910,8 @@ const IT_3101 = [
     name: "Mangampat, John Joseph S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jaymangampat.github.io/jayportfolio./",
+        code: "https://github.com/jaymangampat/jayportfolio.",
       },
     },
   },
