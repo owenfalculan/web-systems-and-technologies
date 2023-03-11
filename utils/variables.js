@@ -900,8 +900,8 @@ const IT_3101 = [
     name: "Maldia, Jon Paolo G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://asnpotato.github.io/Paolo-Maldia-Personal-Portfolio/",
+        code: "https://github.com/asnPotato/Paolo-Maldia-Personal-Portfolio",
       },
     },
   },
