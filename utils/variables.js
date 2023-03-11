@@ -1214,7 +1214,7 @@ const IT_3102 = [
     activities: {
       website: {
         link: "https://janellopez.github.io/ja/",
-        code: "https://github.com/owenfalculan/web-systems-and-technologies",
+        code: "https://github.com/janellopez/ja.git",
       },
     },
   },
