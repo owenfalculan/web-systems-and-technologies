@@ -1313,8 +1313,8 @@ const IT_3102 = [
     name: "Pamplona, Melvin A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://melvinp23.github.io/",
+        code: "https://github.com/melvinp23/melvinp23.github.io",
       },
     },
   },
