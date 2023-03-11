@@ -850,8 +850,8 @@ const IT_3101 = [
     name: "Ferrer Jr., Nestor V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://nestorferrerjr.github.io/nestor-ferrer/",
+        code: "https://github.com/nestorferrerjr/nestor-ferrer",
       },
     },
   },
