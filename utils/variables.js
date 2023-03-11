@@ -1213,8 +1213,8 @@ const IT_3102 = [
     name: "Lopez, Jannele S.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://janellopez.github.io/ja/",
+        code: "https://github.com/owenfalculan/web-systems-and-technologies",
       },
     },
   },
