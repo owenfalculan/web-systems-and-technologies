@@ -640,8 +640,8 @@ const IT_3101 = [
     name: "Atienza, Julius W.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://corbin1101.github.io/YosAtienza.github.io/",
+        code: "https://github.com/Corbin1101/YosAtienza.github.io.git",
       },
     },
   },
