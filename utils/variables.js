@@ -1373,8 +1373,8 @@ const IT_3102 = [
     name: "Saez, Charlene B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "http://saez-portfolio.vercel.app/",
+        code: "https://github.com/ChrlnSaez/portfolio",
       },
     },
   },
