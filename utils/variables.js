@@ -1403,8 +1403,8 @@ const IT_3102 = [
     name: "Tordecilla, Gerlie L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://xxgerxx.github.io/gerlie/",
+        code: "https://github.com/xxGerxx/gerlie",
       },
     },
   },
