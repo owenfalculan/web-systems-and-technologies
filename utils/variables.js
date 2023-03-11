@@ -1133,8 +1133,8 @@ const IT_3102 = [
     name: "Catilo, Warren M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://aggron-s.github.io/web-dev-repo",
+        code: "https://github.com/Aggron-S/web-dev-repo",
       },
     },
   },
