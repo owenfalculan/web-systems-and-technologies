@@ -620,8 +620,8 @@ const IT_3101 = [
     name: "Alea, Allen Joshua B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://allenxalea.github.io/",
+        code: "https://github.com/allenxalea/allenxalea.github.io.git",
       },
     },
   },
