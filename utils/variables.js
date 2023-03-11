@@ -730,8 +730,8 @@ const IT_3101 = [
     name: "Ceniza, Liane Raine M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://lianeee-23.github.io/Personal-Portfolio/",
+        code: "https://github.com/lianeee-23/Personal-Portfolio",
       },
     },
   },
