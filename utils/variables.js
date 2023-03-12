@@ -1203,8 +1203,8 @@ const IT_3102 = [
     name: "Julve, John Michael C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://julvej0.github.io/Personal-Profile/",
+        code: "https://github.com/julvej0/Personal-Profile",
       },
     },
   },
