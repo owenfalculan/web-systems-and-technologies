@@ -1273,8 +1273,8 @@ const IT_3102 = [
     name: "Manalo, Kate G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jan2manalo.github.io/kate-man/",
+        code: "https://github.com/jan2manalo/kate-man",
       },
     },
   },
