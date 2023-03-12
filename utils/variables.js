@@ -640,8 +640,8 @@ const IT_3101 = [
     name: "Atienza, Julius W.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://corbin1101.github.io/YosAtienza.github.io/",
+        code: "https://github.com/Corbin1101/YosAtienza.github.io.git",
       },
     },
   },
@@ -1133,8 +1133,8 @@ const IT_3102 = [
     name: "Catilo, Warren M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://aggron-s.github.io/web-dev-repo",
+        code: "https://github.com/Aggron-S/web-dev-repo",
       },
     },
   },
@@ -1203,8 +1203,8 @@ const IT_3102 = [
     name: "Julve, John Michael C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://julvej0.github.io/Personal-Profile/",
+        code: "https://github.com/julvej0/Personal-Profile",
       },
     },
   },
@@ -1313,8 +1313,8 @@ const IT_3102 = [
     name: "Pamplona, Melvin A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://melvinp23.github.io/",
+        code: "https://github.com/melvinp23/melvinp23.github.io",
       },
     },
   },
@@ -1343,8 +1343,8 @@ const IT_3102 = [
     name: "Plata, Bienmar V.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mrviking01.github.io/profile-porforlio/",
+        code: "https://github.com/mrViking01/profile-porforlio.git",
       },
     },
   },
@@ -1403,8 +1403,8 @@ const IT_3102 = [
     name: "Tordecilla, Gerlie L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://xxgerxx.github.io/gerlie/",
+        code: "https://github.com/xxGerxx/gerlie",
       },
     },
   },
