@@ -1073,8 +1073,8 @@ const IT_3102 = [
     name: "Alegre, Kristyl Axlee A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://krstyllgr.github.io/Krispw.github.io/",
+        code: "https://github.com/Krstyllgr/Krispw.github.io",
       },
     },
   },
