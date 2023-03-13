@@ -1053,8 +1053,8 @@ const IT_3102 = [
     name: "Agcaoili, Russell D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://agcaoilirussell.github.io/russellagcaoili.github.io/",
+        code: "https://github.com/agcaoilirussell/russellagcaoili.github.io",
       },
     },
   },
