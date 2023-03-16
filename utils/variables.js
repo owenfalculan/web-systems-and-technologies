@@ -1353,8 +1353,8 @@ const IT_3102 = [
     name: "Ramal, Kim Yzabelle A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ramalkim.github.io/",
+        code: "https://github.com/ramalkim/ramalkim.github.io",
       },
     },
   },
