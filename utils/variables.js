@@ -1093,8 +1093,8 @@ const IT_3102 = [
     name: "Bruce, Gabrielle Antoinette E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://brucegabrielle.github.io/aboutabby/",
+        code: "https://github.com/Brucegabrielle/aboutabby",
       },
     },
   },
