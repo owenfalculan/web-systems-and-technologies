@@ -1253,8 +1253,8 @@ const IT_3102 = [
     name: "Maldonado, Bianca Keisha D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://prancakes.github.io/personal-website/",
+        code: "https://github.com/Prancakes/personal-website",
       },
     },
   },
