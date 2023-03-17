@@ -726,7 +726,6 @@ const IT_3101 = [
     },
   },
   {
-    {
     code: "20-02516",
     name: "Castor, Criz Limuel V.",
     activities: {
