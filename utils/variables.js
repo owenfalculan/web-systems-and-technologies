@@ -715,6 +715,16 @@ const IT_3101 = [
       },
     },
   },
+    {
+    code: "20-03888",
+    name: "Casao, George Mikel R.",
+    activities: {
+      website: {
+        link: "https://tagurooo.github.io/PortFolio-George/",
+        code: "https://github.com/Tagurooo/PortFolio-George",
+      },
+    },
+  },
   {
     code: "20-00945",
     name: "Castillo, Ejhay L.",
