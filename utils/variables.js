@@ -726,6 +726,17 @@ const IT_3101 = [
     },
   },
   {
+    {
+    code: "20-02516",
+    name: "Castor, Criz Limuel V.",
+    activities: {
+      website: {
+        link: "https://crizlimuel.github.io/Personal-Portfolio-Website/",
+        code: "https://github.com/CrizLimuel/Personal-Portfolio-Website",
+      },
+    },
+  },
+  {
     code: "20-09196",
     name: "Ceniza, Liane Raine M.",
     activities: {
