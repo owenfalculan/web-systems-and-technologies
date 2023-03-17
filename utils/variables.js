@@ -1085,6 +1085,16 @@ const IT_3101 = [
       },
     },
   },
+  {
+    code: "20-01499",
+    name: "Ronquillo, Kim Ryan B.",
+    activities: {
+      website: {
+        link: "https://sleepykaede.github.io/Pesonal-Portfolio/",
+        code: "https://github.com/SleepyKaede/Pesonal-Portfolio",
+      },
+    },
+  },
 ]
 
 const IT_3102 = [
