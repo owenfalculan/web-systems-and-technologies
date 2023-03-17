@@ -695,6 +695,16 @@ const IT_3101 = [
       },
     },
   },
+   {
+    code: "20-08467",
+    name: "Camantes, Kevin Francis A.",
+    activities: {
+      website: {
+        link: "https://fukulot.github.io/1Portfolio/",
+        code: "https://github.com/Fukulot/1Portfolio",
+      },
+    },
+  },
   {
     code: "20-04696",
     name: "Camasis, Jane B.",
