@@ -1433,8 +1433,8 @@ const IT_3102 = [
     name: "Rosales, Andrew Kyle P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://andrewkylerosales.github.io/kyle-rosales/",
+        code: "https://github.com/AndrewKyleRosales/kyle-rosales/tree/master",
       },
     },
   },
