@@ -1243,8 +1243,8 @@ const IT_3102 = [
     name: "Dueñas, John Kenneth",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johnkennethduenas.github.io/Khenprofile/",
+        code: "https://github.com/JohnkennethDuenas/Khenprofile.git",
       },
     },
   },
