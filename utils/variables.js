@@ -1409,6 +1409,16 @@ const IT_3102 = [
     },
   },
   {
+    code: "20-07143",
+    name: "Plata,Charles Edrian T.",
+    activities: {
+      website: {
+        link: "https://xhatxhat.github.io/charles-plata/",
+        code: "https://github.com/xhatxhat/charles-plata.git",
+      },
+    },
+  },
+  {
     code: "20-07187",
     name: "Ramal, Kim Yzabelle A.",
     activities: {
