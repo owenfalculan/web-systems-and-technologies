@@ -680,8 +680,8 @@ const IT_3101 = [
     name: "Briton, Josh Gabriel C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://tarhoskovacs.github.io/helloworld/",
+        code: "https://github.com/TarhosKovacs/helloworld",
       },
     },
   },
