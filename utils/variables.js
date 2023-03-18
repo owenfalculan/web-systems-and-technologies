@@ -880,8 +880,8 @@ const IT_3101 = [
     name: "Estrada, Adriane M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://eydiiix.github.io/adriane-profile/",
+        code: "https://github.com/eydiiix/adriane-profile",
       },
     },
   },
