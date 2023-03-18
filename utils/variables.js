@@ -1060,8 +1060,8 @@ const IT_3101 = [
     name: "Roldan, Angelica Joy B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://joyroldan.github.io/personal-website/",
+        code: "https://github.com/joyroldan/personal-website.git",
       },
     },
   },
