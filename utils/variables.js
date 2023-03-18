@@ -1393,8 +1393,8 @@ const IT_3102 = [
     name: "Peña, Jhunel D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jhunelpena.github.io/jhunelpena/",
+        code: "https://github.com/jhunelpena/jhunelpena",
       },
     },
   },
