@@ -1040,8 +1040,8 @@ const IT_3101 = [
     name: "Quinto, Mark Gabriel M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mark-gabriel.github.io/",
+        code: "https://github.com/Mark-Gabriel/Mark-Gabriel.github.io.git",
       },
     },
   },
