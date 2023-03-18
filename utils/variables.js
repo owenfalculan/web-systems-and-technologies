@@ -736,6 +736,16 @@ const IT_3101 = [
     },
   },
   {
+    code: "20-03577",
+    name: "Claveria, Harold David A.",
+    activities: {
+      website: {
+        link: "https://haroldclav.github.io/Personal-Website/",
+        code: "https://github.com/HaroldClav/Personal-Website",
+      },
+    },
+  },
+  {
     code: "20-00945",
     name: "Castillo, Ejhay L.",
     activities: {
