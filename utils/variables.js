@@ -1419,7 +1419,6 @@ const IT_3102 = [
     },
   },
   {
-
     code: "20-07187",
     name: "Ramal, Kim Yzabelle A.",
     activities: {
