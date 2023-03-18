@@ -720,8 +720,8 @@ const IT_3101 = [
     name: "Caraos, Marnel Czarina Mae B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "link-website",
+        code: "link-code",
       },
     },
   },
