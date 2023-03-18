@@ -1453,8 +1453,8 @@ const IT_3102 = [
     name: "Ylagan, Kristine Joy A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://krstnylgn.github.io/ylagan/",
+        code: "https://github.com/krstnylgn/ylagan.git",
       },
     },
   },
