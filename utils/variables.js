@@ -660,8 +660,8 @@ const IT_3101 = [
     name: "Ballelos, Justine Jose M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jjballelos.github.io/jjballelos/",
+        code: "https://github.com/JJBallelos/jjballelos.git",
       },
     },
   },
