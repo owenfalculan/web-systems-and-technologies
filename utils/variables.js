@@ -1333,8 +1333,8 @@ const IT_3102 = [
     name: "Maliwanag, Allysa Mae M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://allysamaliwanag.github.io/",
+        code: "https://github.com/allysamaliwanag",
       },
     },
   },
