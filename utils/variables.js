@@ -830,8 +830,8 @@ const IT_3101 = [
     name: "De Villa, Rudolph Angelo C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://sh1baruuu.github.io/de_villa-portfolio/",
+        code: "https://github.com/sh1baruuu/de_villa-portfolio.git",
       },
     },
   },
