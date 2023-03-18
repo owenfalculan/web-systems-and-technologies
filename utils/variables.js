@@ -860,7 +860,7 @@ const IT_3101 = [
     name: "Ebon, Christian C.",
     activities: {
       website: {
-        link: "https://github.com/ebonchristian/ebonchristian.github.io",
+        link: "https://ebonchristian.github.io/",
         code: "https://github.com/ebonchristian/ebonchristian.github.io.git",
       },
     },
