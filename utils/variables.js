@@ -646,6 +646,16 @@ const IT_3101 = [
     },
   },
   {
+    code: "20-04362",
+    name: "Bagot, Alwin Jasper D.",
+    activities: {
+      website: {
+        link: "https://meowpoor.github.io/Personal-Website/",
+        code: "https://github.com/MeowPoor/Personal-Website",
+      },
+    },
+  },
+  {
     code: "20-09598",
     name: "Ballelos, Justine Jose M.",
     activities: {
