@@ -1063,8 +1063,8 @@ const IT_3102 = [
     name: "Alas, Ma. Leabel",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://maleabelalas.github.io/alas/",
+        code: "https://github.com/maleabelalas/alas",
       },
     },
   },
