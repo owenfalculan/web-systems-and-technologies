@@ -1163,8 +1163,8 @@ const IT_3102 = [
     name: "Caponpon, Menard Luis I.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://m1lkyz.github.io/Menard/",
+        code: "https://github.com/m1lkyz/Menard",
       },
     },
   },
