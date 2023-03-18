@@ -1363,8 +1363,8 @@ const IT_3102 = [
     name: "Orense, Johndrey Jester B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johndreyorense.github.io/",
+        code: "https://github.com/JohndreyOrense/JohndreyOrense.github.io",
       },
     },
   },
