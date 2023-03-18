@@ -1149,6 +1149,16 @@ const IT_3102 = [
     },
   },
   {
+    code: "20-06834",
+    name: "Borbon, Jhay Mharlon P.",
+    activities: {
+      website: {
+        link: "https://jhaymborbon.github.io/JhayM-Borbon/",
+        code: "https://github.com/JhayMBorbon/JhayM-Borbon",
+      },
+    },
+  },
+  {
     code: "20-08522",
     name: "Bruce, Gabrielle Antoinette E.",
     activities: {
