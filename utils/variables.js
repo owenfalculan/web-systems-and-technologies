@@ -710,8 +710,8 @@ const IT_3101 = [
     name: "Camasis, Jane B.",
     activities: {
       website: {
-        link: "website-link",
-        code: "website-code",
+        link: "website-link.com",
+        code: "website-code.git",
       },
     },
   },
