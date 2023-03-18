@@ -1293,8 +1293,8 @@ const IT_3102 = [
     name: "Macatangay, Steve M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://tempest52.github.io/",
+        code: "https://github.com/TemPesT52/TemPesT52.github.io.git",
       },
     },
   },
