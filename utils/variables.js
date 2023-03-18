@@ -1083,8 +1083,8 @@ const IT_3102 = [
     name: "Adaya, Carl Xyreuss B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://sairuscx.github.io/",
+        code: "https://github.com/sairuscx/sairuscx.github.io",
       },
     },
   },
