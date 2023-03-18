@@ -1095,6 +1095,16 @@ const IT_3101 = [
       },
     },
   },
+  {
+    code: "20-04125",
+    name: "Taraya, Mark Anthony",
+    activities: {
+      website: {
+        link: "https://markanthony25.github.io/Personal-Portfolio/",
+        code: "https://github.com/Markanthony25/Personal-Portfolio",
+      },
+    },
+  },
 ]
 
 const IT_3102 = [
