@@ -1000,8 +1000,8 @@ const IT_3101 = [
     name: "Miranda, Matt Alexis P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://panigaming.github.io/",
+        code: "https://github.com/Panigaming/panigaming.github.io",
       },
     },
   },
