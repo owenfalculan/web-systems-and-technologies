@@ -1030,8 +1030,8 @@ const IT_3101 = [
     name: "Pascua, Mark Hendrix P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kagami04.github.io/hendrix-pascua/",
+        code: "https://github.com/Kagami04/hendrix-pascua",
       },
     },
   },
