@@ -1060,8 +1060,8 @@ const IT_3101 = [
     name: "Ramirez, Ralph Rosyl M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://20-00674.github.io/ralph-ramirez/",
+        code: "https://github.com/20-00674/ralph-ramirez.git",
       },
     },
   },
