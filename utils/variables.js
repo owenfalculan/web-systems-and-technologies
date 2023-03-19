@@ -1010,8 +1010,8 @@ const IT_3101 = [
     name: "Pareño, Gina M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://itsmeginabels.github.io/",
+        code: "https://github.com/ItsmeGinabels/ItsmeGinabels.github.io.git",
       },
     },
   },
