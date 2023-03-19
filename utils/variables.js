@@ -670,8 +670,8 @@ const IT_3101 = [
     name: "Baluyot, Elvin Marco Clyde P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://3dylc.github.io/personal-profile/",
+        code: "https://github.com/3DYLC/personal-profile.git",
       },
     },
   },
@@ -680,8 +680,8 @@ const IT_3101 = [
     name: "Briton, Josh Gabriel C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://tarhoskovacs.github.io/helloworld/",
+        code: "https://github.com/TarhosKovacs/helloworld",
       },
     },
   },
@@ -830,8 +830,8 @@ const IT_3101 = [
     name: "De Villa, Rudolph Angelo C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://sh1baruuu.github.io/de_villa-portfolio/",
+        code: "https://github.com/sh1baruuu/de_villa-portfolio.git",
       },
     },
   },
@@ -860,8 +860,8 @@ const IT_3101 = [
     name: "Ebon, Christian C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ebonchristian.github.io/",
+        code: "https://github.com/ebonchristian/ebonchristian.github.io.git",
       },
     },
   },
@@ -1000,8 +1000,8 @@ const IT_3101 = [
     name: "Miranda, Matt Alexis P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://panigaming.github.io/",
+        code: "https://github.com/Panigaming/panigaming.github.io",
       },
     },
   },
@@ -1020,8 +1020,8 @@ const IT_3101 = [
     name: "Pareño, Gina M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://itsmeginabels.github.io/",
+        code: "https://github.com/ItsmeGinabels/ItsmeGinabels.github.io.git",
       },
     },
   },
@@ -1060,8 +1060,8 @@ const IT_3101 = [
     name: "Ramirez, Ralph Rosyl M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://20-00674.github.io/ralph-ramirez/",
+        code: "https://github.com/20-00674/ralph-ramirez.git",
       },
     },
   },
@@ -1092,6 +1092,16 @@ const IT_3101 = [
       website: {
         link: "https://sleepykaede.github.io/Pesonal-Portfolio/",
         code: "https://github.com/SleepyKaede/Pesonal-Portfolio",
+      },
+    },
+  },
+  {
+    code: "20-04125",
+    name: "Taraya, Mark Anthony",
+    activities: {
+      website: {
+        link: "https://markanthony25.github.io/Personal-Portfolio/",
+        code: "https://github.com/Markanthony25/Personal-Portfolio",
       },
     },
   },
@@ -1135,6 +1145,16 @@ const IT_3102 = [
       website: {
         link: "https://krstyllgr.github.io/Krispw.github.io/",
         code: "https://github.com/Krstyllgr/Krispw.github.io",
+      },
+    },
+  },
+  {
+    code: "20-07923",
+    name: "Aniel, Francis C.",
+    activities: {
+      website: {
+        link: "https://donackerman.github.io/francis-website/",
+        code: "https://github.com/DonAckerman/francis-website.git",
       },
     },
   },
@@ -1363,8 +1383,8 @@ const IT_3102 = [
     name: "Orense, Johndrey Jester B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johndreyorense.github.io/",
+        code: "https://github.com/JohndreyOrense/JohndreyOrense.github.io",
       },
     },
   },
@@ -1393,8 +1413,8 @@ const IT_3102 = [
     name: "Peña, Jhunel D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jhunelpena.github.io/jhunelpena/",
+        code: "https://github.com/jhunelpena/jhunelpena",
       },
     },
   },
@@ -1463,8 +1483,8 @@ const IT_3102 = [
     name: "Santos, Odette Irish M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://odettesantos.github.io/cc/",
+        code: "https://github.com/OdetteSantos/cc.git",
       },
     },
   },
