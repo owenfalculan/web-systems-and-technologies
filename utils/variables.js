@@ -1483,8 +1483,8 @@ const IT_3102 = [
     name: "Santos, Odette Irish M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://odettesantos.github.io/cc/",
+        code: "https://github.com/OdetteSantos/cc.git",
       },
     },
   },
