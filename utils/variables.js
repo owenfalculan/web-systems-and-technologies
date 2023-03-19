@@ -1149,6 +1149,16 @@ const IT_3102 = [
     },
   },
   {
+    code: "20-07923",
+    name: "Aniel, Francis C.",
+    activities: {
+      website: {
+        link: "https://donackerman.github.io/francis-website/",
+        code: "https://github.com/DonAckerman/francis-website.git",
+      },
+    },
+  },
+  {
     code: "20-04819",
     name: "Borromeo, Ma. Louvi Kaye B.",
     activities: {
