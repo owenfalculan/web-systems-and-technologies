@@ -690,8 +690,8 @@ const IT_3101 = [
     name: "Cabral, Reyven B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://brcabra.github.io/Revs_rc.github.io/",
+        code: "https://github.com/BRCabra/Revs_rc.github.io.git",
       },
     },
   },
