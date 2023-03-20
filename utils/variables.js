@@ -760,8 +760,8 @@ const IT_3101 = [
     name: "Castillo, Ejhay L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://idyayskiiii.github.io/chay/",
+        code: "https://github.com/idyayskiiii/chay.git",
       },
     },
   },
