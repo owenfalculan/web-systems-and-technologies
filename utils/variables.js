@@ -690,8 +690,8 @@ const IT_3101 = [
     name: "Cabral, Reyven B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://brcabra.github.io/Revs_rc.github.io/",
+        code: "https://github.com/BRCabra/Revs_rc.github.io.git",
       },
     },
   },
@@ -760,8 +760,8 @@ const IT_3101 = [
     name: "Castillo, Ejhay L.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://idyayskiiii.github.io/chay/",
+        code: "https://github.com/idyayskiiii/chay.git",
       },
     },
   },
@@ -940,8 +940,8 @@ const IT_3101 = [
     name: "Ilagan, Carl Bryan D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://bryandilagan.github.io/BryanIlagan/",
+        code: "https://github.com/BryanDilagan/BryanIlagan.git",
       },
     },
   },
