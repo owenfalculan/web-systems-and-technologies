@@ -940,8 +940,8 @@ const IT_3101 = [
     name: "Ilagan, Carl Bryan D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://bryandilagan.github.io/BryanIlagan/",
+        code: "https://github.com/BryanDilagan/BryanIlagan.git",
       },
     },
   },
