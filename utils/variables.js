@@ -646,12 +646,22 @@ const IT_3101 = [
     },
   },
   {
+    code: "20-04362",
+    name: "Bagot, Alwin Jasper D.",
+    activities: {
+      website: {
+        link: "https://meowpoor.github.io/Personal-Website/",
+        code: "https://github.com/MeowPoor/Personal-Website",
+      },
+    },
+  },
+  {
     code: "20-09598",
     name: "Ballelos, Justine Jose M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jjballelos.github.io/jjballelos/",
+        code: "https://github.com/JJBallelos/jjballelos.git",
       },
     },
   },
@@ -660,8 +670,8 @@ const IT_3101 = [
     name: "Baluyot, Elvin Marco Clyde P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://3dylc.github.io/personal-profile/",
+        code: "https://github.com/3DYLC/personal-profile.git",
       },
     },
   },
@@ -670,8 +680,8 @@ const IT_3101 = [
     name: "Briton, Josh Gabriel C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://tarhoskovacs.github.io/helloworld/",
+        code: "https://github.com/TarhosKovacs/helloworld",
       },
     },
   },
@@ -820,8 +830,8 @@ const IT_3101 = [
     name: "De Villa, Rudolph Angelo C.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://sh1baruuu.github.io/de_villa-portfolio/",
+        code: "https://github.com/sh1baruuu/de_villa-portfolio.git",
       },
     },
   },
@@ -880,8 +890,8 @@ const IT_3101 = [
     name: "Estrada, Adriane M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://eydiiix.github.io/adriane-profile/",
+        code: "https://github.com/eydiiix/adriane-profile",
       },
     },
   },
@@ -990,8 +1000,8 @@ const IT_3101 = [
     name: "Miranda, Matt Alexis P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://panigaming.github.io/",
+        code: "https://github.com/Panigaming/panigaming.github.io",
       },
     },
   },
@@ -1010,8 +1020,8 @@ const IT_3101 = [
     name: "Pareño, Gina M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://itsmeginabels.github.io/",
+        code: "https://github.com/ItsmeGinabels/ItsmeGinabels.github.io.git",
       },
     },
   },
@@ -1030,8 +1040,8 @@ const IT_3101 = [
     name: "Pascua, Mark Hendrix P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kagami04.github.io/hendrix-pascua/",
+        code: "https://github.com/Kagami04/hendrix-pascua",
       },
     },
   },
@@ -1040,8 +1050,8 @@ const IT_3101 = [
     name: "Quinto, Mark Gabriel M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://mark-gabriel.github.io/",
+        code: "https://github.com/Mark-Gabriel/Mark-Gabriel.github.io.git",
       },
     },
   },
@@ -1050,8 +1060,8 @@ const IT_3101 = [
     name: "Ramirez, Ralph Rosyl M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://20-00674.github.io/ralph-ramirez/",
+        code: "https://github.com/20-00674/ralph-ramirez.git",
       },
     },
   },
@@ -1060,8 +1070,8 @@ const IT_3101 = [
     name: "Roldan, Angelica Joy B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://joyroldan.github.io/personal-website/",
+        code: "https://github.com/joyroldan/personal-website.git",
       },
     },
   },
@@ -1075,6 +1085,26 @@ const IT_3101 = [
       },
     },
   },
+  {
+    code: "20-01499",
+    name: "Ronquillo, Kim Ryan B.",
+    activities: {
+      website: {
+        link: "https://sleepykaede.github.io/Pesonal-Portfolio/",
+        code: "https://github.com/SleepyKaede/Pesonal-Portfolio",
+      },
+    },
+  },
+  {
+    code: "20-04125",
+    name: "Taraya, Mark Anthony",
+    activities: {
+      website: {
+        link: "https://markanthony25.github.io/Personal-Portfolio/",
+        code: "https://github.com/Markanthony25/Personal-Portfolio",
+      },
+    },
+  },
 ]
 
 const IT_3102 = [
@@ -1083,8 +1113,8 @@ const IT_3102 = [
     name: "Adaya, Carl Xyreuss B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://sairuscx.github.io/",
+        code: "https://github.com/sairuscx/sairuscx.github.io",
       },
     },
   },
@@ -1103,8 +1133,8 @@ const IT_3102 = [
     name: "Alas, Ma. Leabel",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://maleabelalas.github.io/alas/",
+        code: "https://github.com/maleabelalas/alas",
       },
     },
   },
@@ -1119,12 +1149,32 @@ const IT_3102 = [
     },
   },
   {
+    code: "20-07923",
+    name: "Aniel, Francis C.",
+    activities: {
+      website: {
+        link: "https://donackerman.github.io/francis-website/",
+        code: "https://github.com/DonAckerman/francis-website.git",
+      },
+    },
+  },
+  {
     code: "20-04819",
     name: "Borromeo, Ma. Louvi Kaye B.",
     activities: {
       website: {
         link: "",
         code: "",
+      },
+    },
+  },
+  {
+    code: "20-06834",
+    name: "Borbon, Jhay Mharlon P.",
+    activities: {
+      website: {
+        link: "https://jhaymborbon.github.io/JhayM-Borbon/",
+        code: "https://github.com/JhayMBorbon/JhayM-Borbon",
       },
     },
   },
@@ -1163,8 +1213,8 @@ const IT_3102 = [
     name: "Caponpon, Menard Luis I.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://m1lkyz.github.io/Menard/",
+        code: "https://github.com/m1lkyz/Menard",
       },
     },
   },
@@ -1223,8 +1273,8 @@ const IT_3102 = [
     name: "Dueñas, John Kenneth",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johnkennethduenas.github.io/Khenprofile/",
+        code: "https://github.com/JohnkennethDuenas/Khenprofile.git",
       },
     },
   },
@@ -1273,8 +1323,8 @@ const IT_3102 = [
     name: "Macatangay, Steve M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://tempest52.github.io/",
+        code: "https://github.com/TemPesT52/TemPesT52.github.io.git",
       },
     },
   },
@@ -1303,8 +1353,8 @@ const IT_3102 = [
     name: "Maliwanag, Allysa Mae M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://allysamaliwanag.github.io/",
+        code: "https://github.com/allysamaliwanag",
       },
     },
   },
@@ -1333,8 +1383,8 @@ const IT_3102 = [
     name: "Orense, Johndrey Jester B.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://johndreyorense.github.io/",
+        code: "https://github.com/JohndreyOrense/JohndreyOrense.github.io",
       },
     },
   },
@@ -1363,8 +1413,8 @@ const IT_3102 = [
     name: "Peña, Jhunel D.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jhunelpena.github.io/jhunelpena/",
+        code: "https://github.com/jhunelpena/jhunelpena",
       },
     },
   },
@@ -1389,6 +1439,16 @@ const IT_3102 = [
     },
   },
   {
+    code: "20-07143",
+    name: "Plata,Charles Edrian T.",
+    activities: {
+      website: {
+        link: "https://xhatxhat.github.io/charles-plata/",
+        code: "https://github.com/xhatxhat/charles-plata.git",
+      },
+    },
+  },
+  {
     code: "20-07187",
     name: "Ramal, Kim Yzabelle A.",
     activities: {
@@ -1403,8 +1463,8 @@ const IT_3102 = [
     name: "Rosales, Andrew Kyle P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://andrewkylerosales.github.io/kyle-rosales/",
+        code: "https://github.com/AndrewKyleRosales/kyle-rosales/tree/master",
       },
     },
   },
@@ -1423,8 +1483,8 @@ const IT_3102 = [
     name: "Santos, Odette Irish M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://odettesantos.github.io/cc/",
+        code: "https://github.com/OdetteSantos/cc.git",
       },
     },
   },
@@ -1453,8 +1513,8 @@ const IT_3102 = [
     name: "Ylagan, Kristine Joy A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://krstnylgn.github.io/ylagan/",
+        code: "https://github.com/krstnylgn/ylagan.git",
       },
     },
   },
