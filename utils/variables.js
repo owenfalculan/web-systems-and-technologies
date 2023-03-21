@@ -700,7 +700,7 @@ const IT_3101 = [
     name: "Calica, Cristine Joy M.",
     activities: {
       website: {
-        link: "https://github.com/krissteen/CristineJoyCalica",
+        link: "https://krissteen.github.io/CristineJoyCalica/",
         code: "https://github.com/krissteen/CristineJoyCalica.git",
       },
     },
