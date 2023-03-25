@@ -800,8 +800,8 @@ const IT_3101 = [
     name: "Cudal, John Paul A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://ralzel.github.io/johnpaul/",
+        code: "https://github.com/RAlZEL/johnpaul",
       },
     },
   },
