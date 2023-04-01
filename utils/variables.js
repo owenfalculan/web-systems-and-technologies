@@ -630,8 +630,8 @@ const IT_3101 = [
     name: "Alvarez, Aaron Louie G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://batstae.github.io/AaronlouieAlvarez05.github.io/",
+        code: "https://github.com/batstae/AaronlouieAlvarez05.github.io",
       },
     },
   },
