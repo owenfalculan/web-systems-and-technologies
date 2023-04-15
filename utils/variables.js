@@ -1203,8 +1203,8 @@ const IT_3102 = [
     name: "Cansanay, Charles A.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://cansanay1226.github.io/Charles1226/about.html",
+        code: "https://github.com/Cansanay1226/Charles1226",
       },
     },
   },
