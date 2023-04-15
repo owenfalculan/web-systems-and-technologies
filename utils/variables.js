@@ -1423,8 +1423,8 @@ const IT_3102 = [
     name: "Pira, Jerico Niño R.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jericoonp.github.io/Profiling/main.html",
+        code: "https://github.com/Jericoonp/jericoonp.github.io",
       },
     },
   },
